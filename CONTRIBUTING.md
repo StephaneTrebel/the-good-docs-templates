@@ -39,18 +39,18 @@ The core documentation pack is our flagship template pack and it includes the co
 From a contribution standpoint, we anticipate that our long-term contributors will eventually develop a specialty or area of expertise in some specific template packs over time.
 
 
-### The Good Docs Project method articles
+### The Good Docs Project tactic articles
 
 The Good Docs Project regularly takes in requests from users and stakeholders about what types of content they would like us to provide. Sometimes we receive requests for content that won't make sense as a template and instead would make more sense as an article or blog entry.
 
-We call these types of articles **methods** and publish them on our website under a section called The Good Docs Project methods. Articles written for this framework are titled using the {Article Title} Method, such as the Docs Landing Page Method.
+We call these types of articles **tactics** and publish them on our website under a section called [The Good Docs Project tactics](https://www.thegooddocsproject.dev/tactic). Articles written for this framework are titled using the {Article Title} Tactic, such as the Docs Landing Page tactic.
 
-Method projects go through the same contributing process as templates, but are published on our website instead of in the template repository.
+Tactic projects go through the same contributing process as templates, but are published on our website instead of in the template repository.
 
 
 ### Template issues and boards
 
-All the template and method projects that are actively being worked on or which could be worked on have a corresponding issue in the templates repository. Use the issue list or the kanban board to find a project to work on and track your progress as your project moves throughout the template writing phases.
+All the template and tactics projects that are actively being worked on or which could be worked on have a corresponding issue in the templates repository. Use the issue list or the kanban board to find a project to work on and track your progress as your project moves throughout the template writing phases.
 
 - [Template issues list](https://gitlab.com/tgdp/templates/-/issues)
 - [Templates in progress kanban board](https://gitlab.com/tgdp/templates/-/boards/4801048)
@@ -127,12 +127,12 @@ Contributing a template project to our repository has these phases:
     <td><a href="#adopt-a-template">Adopt a template</a></td>
     <td><ul>
           <li>Join a template working group.</li>
-          <li>Work with a template working group lead and your group to decide which template or method project you'll work on.</li>
-          <li>Assign yourself to the corresponding issue for that template or method. Note that this requires a <a href="https://gitlab.com/users/sign_up">GitLab account</a> and you need to be added as a member of the template repository.</li>
+          <li>Work with a template working group lead and your group to decide which template or tactic project you'll work on.</li>
+          <li>Assign yourself to the corresponding issue for that template or tactic. Note that this requires a <a href="https://gitlab.com/users/sign_up">GitLab account</a> and you need to be added as a member of the template repository.</li>
           <li>Use the Google Docs attached to that issue to compose the drafts of the template file deliverables.</li>
         </ul>
     </td>
-    <td>This phase is considered complete when you assign yourself to the issue tracking your template or method project.</td>
+    <td>This phase is considered complete when you assign yourself to the issue tracking your template or tactic project.</td>
   </tr>
   <tr>
     <td>3</td>
@@ -215,7 +215,7 @@ Each phase is explained in more depth in the remaining sections.
 
 ## 1. Join the community
 
-To join our community, you need to register for a [Welcome Wagon meeeting](https://thegooddocsproject.dev/welcome/). At this 1-hour orientation meeting, you'll get:
+To join our community, you need to register for a [Welcome Wagon meeting](https://thegooddocsproject.dev/welcome/). At this 1-hour orientation meeting, you'll get:
 
 - A brief overview of our project's goals and mission.
 - A bit of information about our community and reasons to consider joining.
@@ -226,7 +226,7 @@ After registering for this meeting, you'll get an email with a link to join our 
 
 To become a full-fledged templateer, you need to join our communication channels so that you can talk to us:
 
-- **Slack** - Our Slack workspace is one of the primary means of communicating with members of our project. After joining our workspace, join the `#welcome` channel to introduce yourself. Consider also joining these Slack channels if you plan to work on a template or method project:
+- **Slack** - Our Slack workspace is one of the primary means of communicating with members of our project. After joining our workspace, join the `#welcome` channel to introduce yourself. Consider also joining these Slack channels if you plan to work on a template or tactic project:
   - `#templates`
   - `#ask-a-community-manager`
   - `#tech-requests`
@@ -241,10 +241,10 @@ We expect all members of our project to be nice to each other and to follow our 
 
 ## 2. Adopt a template
 
-In this phase, you will decide which template or method project you will work on and assign yourself to the issue tracking that project.
+In this phase, you will decide which template or tactic project you will work on and assign yourself to the issue tracking that project.
 
 Be aware that:
-- Each template or method project is represented by a corresponding issue in the templates repository.
+- Each template or tactic project is represented by a corresponding issue in the templates repository.
 - You will use this issue to communicate the status of your template project as it moves through the different phases of the template writing process.
 - The Good Docs Project managers use a kanban board that shows all the issues for the current template projects. This tool allows the templateers and project stakeholders to track the overall progress of each template and assist templateers whose progress is blocked.
 
@@ -254,18 +254,18 @@ Links:
 
 To adopt a template:
 
-1. Scroll through the list of available template and method issues and see if one interests you and/or matches your skill set. Alternatively, if you have an idea for a template or method project that does not yet have an issue, and you have the support of a template working group lead, you can create a new issue for your project.
+1. Scroll through the list of available template and tactic issues and see if one interests you and/or matches your skill set. Alternatively, if you have an idea for a template or tactic project that does not yet have an issue, and you have the support of a template working group lead, you can create a new issue for your project.
 
-2. Assign yourself to the issue. Note that this requires a [GitLab account](https://gitlab.com/users/sign_up). You must attend a [Welcome Wagon meeeting](https://thegooddocsproject.dev/welcome/) to become a member of the templates repository. After you've attended that meeting, you can request access in the `#tech-requests` Slack channel.
+2. Assign yourself to the issue. Note that this requires a [GitLab account](https://gitlab.com/users/sign_up). You must attend a [Welcome Wagon meeting](https://thegooddocsproject.dev/welcome/) to become a member of the templates repository. After you've attended that meeting, you can request access in the `#tech-requests` Slack channel.
 
 3. Notify your template working group lead that you have adopted a template project.
 
-If you claim a template or method project and later realize that you don’t have the time or energy to complete the template project, let your working group lead know.
+If you claim a template or tactic project and later realize that you don’t have the time or energy to complete the template project, let your working group lead know.
 
 
 ### Guidelines for choosing a template
 
-Keep in mind that you don't need to be an expert on any content type before you adopt it. If you are interested in writing a particular template or method article and are excited enough to do some research to learn more about it, that's all the preparation you need and we welcome your efforts. Even if you don't have a ton of experience writing a particular type of document, you can still write a high-quality template that will be useful to others. With commitment, research, guided mentorship, and feedback from our community, you can and will create something that will have value to others!
+Keep in mind that you don't need to be an expert on any content type before you adopt it. If you are interested in writing a particular template or tactic article and are excited enough to do some research to learn more about it, that's all the preparation you need and we welcome your efforts. Even if you don't have a ton of experience writing a particular type of document, you can still write a high-quality template that will be useful to others. With commitment, research, guided mentorship, and feedback from our community, you can and will create something that will have value to others!
 
 With that in mind, when deciding which template project is right for you, scroll through the list of template issues and ask yourself the following questions:
 
@@ -280,7 +280,7 @@ If you answered yes to more than one of these questions about a specific type of
 
 ### Priority levels
 
-The following table explains the priority levels given to different template or method projects:
+The following table explains the priority levels given to different template or tactic projects:
 
 <table>
   <tr>
@@ -291,7 +291,7 @@ The following table explains the priority levels given to different template or 
     <td>Critical</td>
     <td><ul>
           <li>A template project that is or will be included in the core template pack. The core template pack is our flagship template pack and the one with the highest visibility and quality.</li>
-          <li>A template project or method that is in extremely high demand from our users, meaning it has been requested by 10 or more users.</li>
+          <li>A template project or tactic that is in extremely high demand from our users, meaning it has been requested by 10 or more users.</li>
           <li>Any template work that is blocking other template work or which would improve our overall template processes or usability.</li>
           <li>Any work to get a core template into compliance with our quality standards and/or deliverables.</li>
         </ul>
@@ -300,27 +300,27 @@ The following table explains the priority levels given to different template or 
   <tr>
     <td>High</td>
     <td><ul>
-          <li>Any template or method for which there is high demand from our users, meaning it has been requested from us by 5-9 users.</li>
+          <li>Any template or tactic for which there is high demand from our users, meaning it has been requested from us by 5-9 users.</li>
           <li>Any template project that has been earmarked for a specific release by the project steering committee or template leads for whatever reason.</li>
-          <li>Any work to get a high-demand template or method into compliance with our quality standards and/or deliverables.</li>
+          <li>Any work to get a high-demand template or tactic into compliance with our quality standards and/or deliverables.</li>
         </ul>
     </td>
   </tr>
   <tr>
     <td>Medium</td>
     <td><ul>
-          <li>Any new template or method for which there is moderate demand from users, meaning it has been requested by 2-4 users.</li>
+          <li>Any new template or tactic for which there is moderate demand from users, meaning it has been requested by 2-4 users.</li>
           <li>Any work that has been added to the template roadmap but is not earmarked for a specific release.</li>
-          <li>Any work to get a moderate-demand template or method into compliance with our quality standards and/or deliverables.</li>
+          <li>Any work to get a moderate-demand template or tactic into compliance with our quality standards and/or deliverables.</li>
         </ul>
     </td>
   </tr>
   <tr>
     <td>Low</td>
     <td><ul>
-          <li>Any new template or method for which there is low or no demand from users, meaning it has been requested by 1 user.</li>
+          <li>Any new template or tactic for which there is low or no demand from users, meaning it has been requested by 1 user.</li>
           <li>Specialized template projects for a niche audience or area of expertise.</li>
-          <li>Any work to get a low-demand template or method into compliance with our quality standards and/or deliverables.</li>
+          <li>Any work to get a low-demand template or tactic into compliance with our quality standards and/or deliverables.</li>
         </ul>
     </td>
   </tr>
