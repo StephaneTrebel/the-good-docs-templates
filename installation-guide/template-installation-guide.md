@@ -150,23 +150,24 @@ Example: To begin the system updates:
 
 
 ## Troubleshooting
-{This section helps solve problems encountered during installation.  Start with a problem statement, then indicate the cause and provide a solution. Additional information can be added (e.g., restart the computer)}.
+{This section helps solve problems encountered during installation. Start with a problem statement, then indicate the cause(s) and provide a solution. Additional information can be added (e.g., restart the computer)}.
 
 {Add a warning note and highlight in color if the action has the potential to affect security.
 
 Communicating with the product engineers and programmers is essential to keep this section up-to-date.}
 
 ### {Problem title: ...}
-{Optional: More details about the problem.}
+{Optional: More details about the **problem**.}
 
-{Optional **Cause:** Cause …}
+{Optional: More details about the **cause(s)** of the problem.}
 
-**Solution:** {Solution …}
+**Solution**: {Solution to the problem...}
 
-{Optional: **Contact:** Support/contact information for issue reports and feedback.}
+**Contact**: {Support/contact information for issue reports and feedback...}
 
 ### {Problem title: ...}
 ...
+
 
 ## Next steps
 {Include what to do after a successful installation, such as a recommended next step or links to further recommended documentation.}
