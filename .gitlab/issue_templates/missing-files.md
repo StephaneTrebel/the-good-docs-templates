@@ -1,35 +1,30 @@
 The [{content type} template](link-to-file) is missing the following template file deliverables:
 
-- [ ] **Template resources** - Includes the resources consulted during the research phase of creating the template. Also includes high quality examples of that content type that served as inspiration for the template.
-- [ ] **Template process** - Explains best practices for researching, writing, and maintaining this content type.
+* [ ] **Template resources** - Includes the resources consulted during the research phase of creating the template. Also includes high quality examples of that content type that served as inspiration for the template.
+* [ ] **Template process** - Explains best practices for researching, writing, and maintaining this content type.
 
 Templateers who work on this issue will need to create these template file deliverables. See the [Template deliverables guide](https://gitlab.com/tgdp/templates/-/blob/main/template-deliverables.md) for guidance about these files. You can also look at examples of other templates in the repository to see examples of each template file. Be aware that some templates might be missing some files.
-
 
 ## Link to Google Doc drafts
 Our project composes rough draft of templates in Google Docs that are owned and maintained by the project leads. The Good Docs Project owns these files so that we can maintain our project archive and history. With that in mind, the project has pre-generated Google Doc files for you to use as you are researching and drafting your template project. These files include a starting point for the structure of each file that should help you as you draft the documents:
 
-- [ ] **Template resources** - [{Content type} resources](link-to-Google-Doc)
-- [ ] **Template process** - [{Content type} process](link-to-Google-Doc)
+* [ ] **Template resources** - [{Content type} resources](link-to-Google-Doc)
+* [ ] **Template process** - [{Content type} process](link-to-Google-Doc)
 
 Bookmark these drafts and use them as you work on your project.
 
 See the next section for more information about these files.
 
-
 ## Definition of done
 A template project is considered complete when the missing template file deliverables have been added to the template.
-
 
 ### Template writing phases
 Although it is optional, we recommend working these missing files through each template writing phase.
 
 See the [Templates CONTRIBUTING guide](https://gitlab.com/tgdp/templates/-/blob/main/CONTRIBUTING.md) for guidance about these phases. You can also receive help from your working group leads and members about how to move your issue through each phase.
 
-
 ### Required template deliverables
 To be considered complete, a template project must have the missing files.
-
 
 ## Want to work on this template?
 Great! Make sure you follow our contributing guidelines:

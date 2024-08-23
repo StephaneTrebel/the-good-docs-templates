@@ -1,0 +1,597 @@
+[
+  {
+    "name": "API Quickstart",
+    "summary": "API Quick Start Guides should be a clear, concise, ordered step-by-step procedure. They should describe the easiest way for readers to achieve a result that shows off the capabilities of your product.",
+    "last_updated": "2024-04-04",
+    "contributors": [
+      {
+        "name": "Michael Park",
+        "id": "michael_park",
+        "roles": [
+          "author",
+          "reviewer",
+          "minor"
+        ]
+      }
+    ],
+    "files": {
+      "template": "template_api-quickstart.md",
+      "guide": "guide_api-quickstart.md"
+    },
+    "packs": [
+      "misc"
+    ]
+  },
+  {
+    "name": "API Refrence",
+    "summary": "brief summary of the content type this template represents.",
+    "last_updated": "YYYY-MM-DD",
+    "contributors": [
+      {
+        "id": "string that matches the 'contributor' filename in the website project.",
+        "roles": [
+          "author",
+          "reviewer"
+        ]
+      }
+    ],
+    "files": {
+      "template": "template_filename",
+      "guide": "guide_filename",
+      "resources": "resources_filename",
+      "process": "process_filename",
+      "example": "example_filename"
+    },
+    "packs": [
+      "core",
+      "community",
+      "misc"
+    ]
+  },
+  {
+    "name": "Bug Report",
+    "summary": "brief summary of the content type this template represents.",
+    "last_updated": "YYYY-MM-DD",
+    "contributors": [
+      {
+        "id": "string that matches the 'contributor' filename in the website project.",
+        "roles": [
+          "author",
+          "reviewer"
+        ]
+      }
+    ],
+    "files": {
+      "template": "template_filename",
+      "guide": "guide_filename",
+      "resources": "resources_filename",
+      "process": "process_filename",
+      "example": "example_filename"
+    },
+    "packs": [
+      "core",
+      "community",
+      "misc"
+    ]
+  },
+  {
+    "name": "Code of Conduct",
+    "summary": "brief summary of the content type this template represents.",
+    "last_updated": "YYYY-MM-DD",
+    "contributors": [
+      {
+        "id": "string that matches the 'contributor' filename in the website project.",
+        "roles": [
+          "author",
+          "reviewer"
+        ]
+      }
+    ],
+    "files": {
+      "template": "template_filename",
+      "guide": "guide_filename",
+      "resources": "resources_filename",
+      "process": "process_filename",
+      "example": "example_filename"
+    },
+    "packs": [
+      "core",
+      "community",
+      "misc"
+    ]
+  },
+  {
+    "name": "Code Of Conduct Incident Record",
+    "summary": "brief summary of the content type this template represents.",
+    "last_updated": "YYYY-MM-DD",
+    "contributors": [
+      {
+        "id": "string that matches the 'contributor' filename in the website project.",
+        "roles": [
+          "author",
+          "reviewer"
+        ]
+      }
+    ],
+    "files": {
+      "template": "template_filename",
+      "guide": "guide_filename",
+      "resources": "resources_filename",
+      "process": "process_filename",
+      "example": "example_filename"
+    },
+    "packs": [
+      "core",
+      "community",
+      "misc"
+    ]
+  },
+  {
+    "name": "Code Of Conduct Remediation Record",
+    "summary": "brief summary of the content type this template represents.",
+    "last_updated": "YYYY-MM-DD",
+    "contributors": [
+      {
+        "id": "string that matches the 'contributor' filename in the website project.",
+        "roles": [
+          "author",
+          "reviewer"
+        ]
+      }
+    ],
+    "files": {
+      "template": "template_filename",
+      "guide": "guide_filename",
+      "resources": "resources_filename",
+      "process": "process_filename",
+      "example": "example_filename"
+    },
+    "packs": [
+      "core",
+      "community",
+      "misc"
+    ]
+  },
+  {
+    "name": "Code Of Conduct Response Plan",
+    "summary": "brief summary of the content type this template represents.",
+    "last_updated": "YYYY-MM-DD",
+    "contributors": [
+      {
+        "id": "string that matches the 'contributor' filename in the website project.",
+        "roles": [
+          "author",
+          "reviewer"
+        ]
+      }
+    ],
+    "files": {
+      "template": "template_filename",
+      "guide": "guide_filename",
+      "resources": "resources_filename",
+      "process": "process_filename",
+      "example": "example_filename"
+    },
+    "packs": [
+      "core",
+      "community",
+      "misc"
+    ]
+  },
+  {
+    "name": "Concept",
+    "summary": "brief summary of the content type this template represents.",
+    "last_updated": "YYYY-MM-DD",
+    "contributors": [
+      {
+        "id": "string that matches the 'contributor' filename in the website project.",
+        "roles": [
+          "author",
+          "reviewer"
+        ]
+      }
+    ],
+    "files": {
+      "template": "template_filename",
+      "guide": "guide_filename",
+      "resources": "resources_filename",
+      "process": "process_filename",
+      "example": "example_filename"
+    },
+    "packs": [
+      "core",
+      "community",
+      "misc"
+    ]
+  },
+  {
+    "name": "Contact Support",
+    "summary": "brief summary of the content type this template represents.",
+    "last_updated": "YYYY-MM-DD",
+    "contributors": [
+      {
+        "id": "string that matches the 'contributor' filename in the website project.",
+        "roles": [
+          "author",
+          "reviewer"
+        ]
+      }
+    ],
+    "files": {
+      "template": "template_filename",
+      "guide": "guide_filename",
+      "resources": "resources_filename",
+      "process": "process_filename",
+      "example": "example_filename"
+    },
+    "packs": [
+      "core",
+      "community",
+      "misc"
+    ]
+  },
+  {
+    "name": "Contributing Guide",
+    "summary": "brief summary of the content type this template represents.",
+    "last_updated": "YYYY-MM-DD",
+    "contributors": [
+      {
+        "id": "string that matches the 'contributor' filename in the website project.",
+        "roles": [
+          "author",
+          "reviewer"
+        ]
+      }
+    ],
+    "files": {
+      "template": "template_filename",
+      "guide": "guide_filename",
+      "resources": "resources_filename",
+      "process": "process_filename",
+      "example": "example_filename"
+    },
+    "packs": [
+      "core",
+      "community",
+      "misc"
+    ]
+  },
+  {
+    "name": "Glossary",
+    "summary": "brief summary of the content type this template represents.",
+    "last_updated": "YYYY-MM-DD",
+    "contributors": [
+      {
+        "id": "string that matches the 'contributor' filename in the website project.",
+        "roles": [
+          "author",
+          "reviewer"
+        ]
+      }
+    ],
+    "files": {
+      "template": "template_filename",
+      "guide": "guide_filename",
+      "resources": "resources_filename",
+      "process": "process_filename",
+      "example": "example_filename"
+    },
+    "packs": [
+      "core",
+      "community",
+      "misc"
+    ]
+  },
+  {
+    "name": "How To",
+    "summary": "brief summary of the content type this template represents.",
+    "last_updated": "YYYY-MM-DD",
+    "contributors": [
+      {
+        "id": "string that matches the 'contributor' filename in the website project.",
+        "roles": [
+          "author",
+          "reviewer"
+        ]
+      }
+    ],
+    "files": {
+      "template": "template_filename",
+      "guide": "guide_filename",
+      "resources": "resources_filename",
+      "process": "process_filename",
+      "example": "example_filename"
+    },
+    "packs": [
+      "core",
+      "community",
+      "misc"
+    ]
+  },
+  {
+    "name": "Installation Guide",
+    "summary": "brief summary of the content type this template represents.",
+    "last_updated": "YYYY-MM-DD",
+    "contributors": [
+      {
+        "id": "string that matches the 'contributor' filename in the website project.",
+        "roles": [
+          "author",
+          "reviewer"
+        ]
+      }
+    ],
+    "files": {
+      "template": "template_filename",
+      "guide": "guide_filename",
+      "resources": "resources_filename",
+      "process": "process_filename",
+      "example": "example_filename"
+    },
+    "packs": [
+      "core",
+      "community",
+      "misc"
+    ]
+  },
+  {
+    "name": "Our Team",
+    "summary": "brief summary of the content type this template represents.",
+    "last_updated": "YYYY-MM-DD",
+    "contributors": [
+      {
+        "id": "string that matches the 'contributor' filename in the website project.",
+        "roles": [
+          "author",
+          "reviewer"
+        ]
+      }
+    ],
+    "files": {
+      "template": "template_filename",
+      "guide": "guide_filename",
+      "resources": "resources_filename",
+      "process": "process_filename",
+      "example": "example_filename"
+    },
+    "packs": [
+      "core",
+      "community",
+      "misc"
+    ]
+  },
+  {
+    "name": "Quickstart",
+    "summary": "brief summary of the content type this template represents.",
+    "last_updated": "YYYY-MM-DD",
+    "contributors": [
+      {
+        "id": "string that matches the 'contributor' filename in the website project.",
+        "roles": [
+          "author",
+          "reviewer"
+        ]
+      }
+    ],
+    "files": {
+      "template": "template_filename",
+      "guide": "guide_filename",
+      "resources": "resources_filename",
+      "process": "process_filename",
+      "example": "example_filename"
+    },
+    "packs": [
+      "core",
+      "community",
+      "misc"
+    ]
+  },
+  {
+    "name": "ReadMe",
+    "summary": "brief summary of the content type this template represents.",
+    "last_updated": "YYYY-MM-DD",
+    "contributors": [
+      {
+        "id": "string that matches the 'contributor' filename in the website project.",
+        "roles": [
+          "author",
+          "reviewer"
+        ]
+      }
+    ],
+    "files": {
+      "template": "template_filename",
+      "guide": "guide_filename",
+      "resources": "resources_filename",
+      "process": "process_filename",
+      "example": "example_filename"
+    },
+    "packs": [
+      "core",
+      "community",
+      "misc"
+    ]
+  },
+  {
+    "name": "Reference",
+    "summary": "brief summary of the content type this template represents.",
+    "last_updated": "YYYY-MM-DD",
+    "contributors": [
+      {
+        "id": "string that matches the 'contributor' filename in the website project.",
+        "roles": [
+          "author",
+          "reviewer"
+        ]
+      }
+    ],
+    "files": {
+      "template": "template_filename",
+      "guide": "guide_filename",
+      "resources": "resources_filename",
+      "process": "process_filename",
+      "example": "example_filename"
+    },
+    "packs": [
+      "core",
+      "community",
+      "misc"
+    ]
+  },
+  {
+    "name": "Release Notes",
+    "summary": "brief summary of the content type this template represents.",
+    "last_updated": "YYYY-MM-DD",
+    "contributors": [
+      {
+        "id": "string that matches the 'contributor' filename in the website project.",
+        "roles": [
+          "author",
+          "reviewer"
+        ]
+      }
+    ],
+    "files": {
+      "template": "template_filename",
+      "guide": "guide_filename",
+      "resources": "resources_filename",
+      "process": "process_filename",
+      "example": "example_filename"
+    },
+    "packs": [
+      "core",
+      "community",
+      "misc"
+    ]
+  },
+  {
+    "name": "Style Guide",
+    "summary": "brief summary of the content type this template represents.",
+    "last_updated": "YYYY-MM-DD",
+    "contributors": [
+      {
+        "id": "string that matches the 'contributor' filename in the website project.",
+        "roles": [
+          "author",
+          "reviewer"
+        ]
+      }
+    ],
+    "files": {
+      "template": "template_filename",
+      "guide": "guide_filename",
+      "resources": "resources_filename",
+      "process": "process_filename",
+      "example": "example_filename"
+    },
+    "packs": [
+      "core",
+      "community",
+      "misc"
+    ]
+  },
+  {
+    "name": "Terminology System",
+    "summary": "brief summary of the content type this template represents.",
+    "last_updated": "YYYY-MM-DD",
+    "contributors": [
+      {
+        "id": "string that matches the 'contributor' filename in the website project.",
+        "roles": [
+          "author",
+          "reviewer"
+        ]
+      }
+    ],
+    "files": {
+      "template": "template_filename",
+      "guide": "guide_filename",
+      "resources": "resources_filename",
+      "process": "process_filename",
+      "example": "example_filename"
+    },
+    "packs": [
+      "core",
+      "community",
+      "misc"
+    ]
+  },
+  {
+    "name": "Troubleshooting",
+    "summary": "brief summary of the content type this template represents.",
+    "last_updated": "YYYY-MM-DD",
+    "contributors": [
+      {
+        "id": "string that matches the 'contributor' filename in the website project.",
+        "roles": [
+          "author",
+          "reviewer"
+        ]
+      }
+    ],
+    "files": {
+      "template": "template_filename",
+      "guide": "guide_filename",
+      "resources": "resources_filename",
+      "process": "process_filename",
+      "example": "example_filename"
+    },
+    "packs": [
+      "core",
+      "community",
+      "misc"
+    ]
+  },
+  {
+    "name": "Tutorial",
+    "summary": "brief summary of the content type this template represents.",
+    "last_updated": "YYYY-MM-DD",
+    "contributors": [
+      {
+        "id": "string that matches the 'contributor' filename in the website project.",
+        "roles": [
+          "author",
+          "reviewer"
+        ]
+      }
+    ],
+    "files": {
+      "template": "template_filename",
+      "guide": "guide_filename",
+      "resources": "resources_filename",
+      "process": "process_filename",
+      "example": "example_filename"
+    },
+    "packs": [
+      "core",
+      "community",
+      "misc"
+    ]
+  },
+  {
+    "name": "User Personas",
+    "summary": "brief summary of the content type this template represents.",
+    "last_updated": "YYYY-MM-DD",
+    "contributors": [
+      {
+        "id": "string that matches the 'contributor' filename in the website project.",
+        "roles": [
+          "author",
+          "reviewer"
+        ]
+      }
+    ],
+    "files": {
+      "template": "template_filename",
+      "guide": "guide_filename",
+      "resources": "resources_filename",
+      "process": "process_filename",
+      "example": "example_filename"
+    },
+    "packs": [
+      "core",
+      "community",
+      "misc"
+    ]
+  }
+]
