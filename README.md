@@ -10,8 +10,8 @@ We are an open-source project working to provide templates for a variety of comm
 
 [TOC]
 
-
 ## Who the templates are for
+
 Our templates are for anyone who wants to make better software documentation.
 This includes:
 
@@ -19,8 +19,8 @@ This includes:
 * **Documentation project owners** working in a docs-as-code model and who you want to provide templates to non-writers to help them write better documentation.
 * **Technical writers** who want to standardize their documentation and draw inspiration from high-quality templates for their own templates or documentation projects.
 
-
 ## About the templates
+
 Our templates are organized into **template packs.**
 A template pack is a collection of templates organized together by:
 
@@ -42,35 +42,35 @@ Each individual template within the template packs contains a set of files:
   </tr>
   <tr>
     <td>Template file</td>
-    <td><strong>template-content-type.md</strong><br><br>The template file is the raw template for the content type. It provides a rough outline of the suggested content and a few embedded writing tips for how to fill in the different sections of the template.</td>
+    <td><strong>template_content-type.md</strong><br><br>The template file is the raw template for the content type. It provides a rough outline of the suggested content and a few embedded writing tips for how to fill in the different sections of the template.</td>
   </tr>
   <tr>
     <td>Template guide</td>
-    <td><strong>guide-content-type.md</strong><br><br>This guide provides a deeper explanation of how to fill in the template. It provides a lightweight introduction to the purpose of this documentation and explains how to fill in each section of the document.</td>
+    <td><strong>guide_content-type.md</strong><br><br>This guide provides a deeper explanation of how to fill in the template. It provides a lightweight introduction to the purpose of this documentation and explains how to fill in each section of the document.</td>
   </tr>
   <tr>
     <td>Resources</td>
-    <td><strong>resources-content-type.md</strong><br><br>This document includes the resources (books, blog entries, guides) that the template author(s) used during the research phase of creating the template. It also includes any high-quality examples of that content type that served as inspiration for the template.</td>
+    <td><strong>resources_content-type.md</strong><br><br>This document includes the resources (books, blog entries, guides) that the template author(s) used during the research phase of creating the template. It also includes any high-quality examples of that content type that served as inspiration for the template.</td>
   </tr>
   <tr>
     <td>Process</td>
-    <td><strong>process-content-type.md</strong><br><br>This document explains best practices for researching, writing, and maintaining this content type.</td>
+    <td><strong>process_content-type.md</strong><br><br>This document explains best practices for researching, writing, and maintaining this content type.</td>
   </tr>
   <tr>
     <td>Example</td>
-    <td><strong>example-content-type.md</strong><br><br>See an example of the template in action in our model documentation project: The Chronologue.</td>
+    <td><strong>example_content-type.md</strong><br><br>See an example of the template in action in our model documentation project: The Chronologue.</td>
   </tr>
 </table>
 
 NOTE: Not all templates contain all these files, but our goal is to eventually provide these files for each template.
 
-
 ## How to get the templates
+
 You can click the links in the following table to access the template files.
 You can then download or copy and paste these files into your documentation project as needed.
 
-
 ### Core documentation template pack
+
 The core documentation pack is our flagship template pack and it includes the core, fundamental content types that every documentation project needs.
 If you download one template pack for your project, it should be this one.
 
@@ -109,10 +109,9 @@ If you download one template pack for your project, it should be this one.
   </tr>
 </table>
 
-
 ### Open source community docs template pack
-The open source community docs template pack includes the fundamental content types that every open source project needs to have a healthy and productive community.
 
+The open source community docs template pack includes the fundamental content types that every open source project needs to have a healthy and productive community.
 
 <table>
   <tr>
@@ -128,6 +127,18 @@ The open source community docs template pack includes the fundamental content ty
     <td>A code of conduct to help you govern your open source or developer community and ensure it remains healthy and open. This template goes beyond a mere code of conduct to provide you with a response plan and supplementary materials to effectively respond to a code of conduct incident.</td>
   </tr>
   <tr>
+    <td><a href="/code-of-conduct-response-plan">Code of Conduct response plan</td>
+    <td>Used as part of the Code of Conduct process, the response plan explains the policy your team will follow as you handle Code of Conduct incidents.</td>
+  </tr>
+  <tr>
+    <td><a href="/code-of-conduct-incident-record">Code of Conduct incident record</td>
+    <td>Used as part of the Code of Conduct process, an incident record is a form that is filled out when a community moderator takes an incident report from a community member.</td>
+  </tr>
+  <tr>
+    <td><a href="/code-of-conduct-remediation-record">Code of Conduct remediation record</td>
+    <td>Used as part of the Code of Conduct process, a remediation record is a form that is filled out when a community moderator meets with a community member to explain the consequences of a Code of Conduct violation.</td>
+  </tr>
+  <tr>
     <td><a href="/contributing-guide">CONTRIBUTING</td>
     <td>Tells users how they can contribute to your open source project and join the community.</td>
   </tr>
@@ -141,8 +152,8 @@ The open source community docs template pack includes the fundamental content ty
   </tr>
 </table>
 
-
 ### Miscellaneous documentation template pack
+
 These templates help you create additional content types beyond the [Core documentation pack](#core-documentation-template-pack).
 The templates in this pack help you create content you need as your documentation project matures.
 
@@ -189,10 +200,10 @@ The templates in this pack help you create content you need as your documentatio
   </tr>
 </table>
 
-
 ## Provide feedback on our templates
+
 Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Project%20README%20on%20Gitlab) if you would like to provide feedback on our templates. You could also [open an issue](https://gitlab.com/tgdp/templates/-/issues).
 
-
 ## Contribute to our project
+
 See our [Contributing guide](CONTRIBUTING.md) for information about joining our community and contributing to the templates project.
