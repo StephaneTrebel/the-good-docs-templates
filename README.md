@@ -124,7 +124,7 @@ The open source community docs template pack includes the fundamental content ty
   </tr>
   <tr>
     <td><a href="/code-of-conduct">Code of Conduct</td>
-    <td>A code of conduct to help you govern your open source or developer community and ensure it remains healthy and open. This template goes beyond a mere code of conduct to provide you with a response plan and supplementary materials to effectively respond to a code of conduct incident.</td>
+    <td>A Code of Conduct helps you govern your open source or developer community to ensure it remains healthy and open.</td>
   </tr>
   <tr>
     <td><a href="/code-of-conduct-response-plan">Code of Conduct response plan</td>
@@ -139,8 +139,8 @@ The open source community docs template pack includes the fundamental content ty
     <td>Used as part of the Code of Conduct process, a remediation record is a form that is filled out when a community moderator meets with a community member to explain the consequences of a Code of Conduct violation.</td>
   </tr>
   <tr>
-    <td><a href="/contributing-guide">CONTRIBUTING</td>
-    <td>Tells users how they can contribute to your open source project and join the community.</td>
+    <td><a href="/contributing-guide">Contributing guide</td>
+    <td>A CONTRIBUTING document tells users how they can contribute to your open source project and join the community.</td>
   </tr>
   <tr>
     <td><a href="/our-team">Our team</td>
@@ -164,11 +164,11 @@ The templates in this pack help you create content you need as your documentatio
   </tr>
   <tr>
     <td><a href="/api-quickstart">API quickstart</td>
-    <td>Simplest possible method of implementing your API.</td>
+    <td>API quickstarts describe the easiest way for readers to achieve a result that shows off the capabilities of the service.</td>
   </tr>
   <tr>
     <td><a href="/api-reference">API reference</td>
-    <td>List of references related to your API.</td>
+    <td>API references are technical manuals that provide API specifications and integration instructions to help your audience understand the service.</td>
   </tr>
   <tr>
     <td><a href="/contact-support">Contact support</td>
