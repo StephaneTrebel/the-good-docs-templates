@@ -1,16 +1,14 @@
 [
   {
-    "name": "API Quickstart",
-    "summary": "API Quick Start Guides should be a clear, concise, ordered step-by-step procedure. They should describe the easiest way for readers to achieve a result that shows off the capabilities of your product.",
+    "name": "API quickstart",
+    "summary": "API quickstarts describe the easiest way for readers to achieve a result that shows off the capabilities of your service.",
     "last_updated": "2024-04-04",
     "contributors": [
       {
-        "name": "Michael Park",
-        "id": "michael_park",
+        "name": "Clarence Cromwell",
+        "id": "clarence_cromwell",
         "roles": [
-          "author",
-          "reviewer",
-          "minor"
+          "author"
         ]
       }
     ],
@@ -23,574 +21,572 @@
     ]
   },
   {
-    "name": "API Refrence",
-    "summary": "brief summary of the content type this template represents.",
-    "last_updated": "YYYY-MM-DD",
+    "name": "API reference",
+    "summary": "API references are technical manuals that provide API specifications and integration instructions to help your audience understand the service.",
+    "last_updated": "2023-06-15",
     "contributors": [
       {
-        "id": "string that matches the 'contributor' filename in the website project.",
+        "name": "Chris Ganta",
+        "id": "chris_ganta",
         "roles": [
-          "author",
-          "reviewer"
+          "author"
+        ]
+      },
+      {
+        "name": "Mengmeng Tang",
+        "id": "mengmeng_tang",
+        "roles": [
+          "author"
         ]
       }
     ],
     "files": {
-      "template": "template_filename",
-      "guide": "guide_filename",
-      "resources": "resources_filename",
-      "process": "process_filename",
-      "example": "example_filename"
+      "template": "template_api-reference.md",
+      "guide": "guide_api-reference.md",
+      "example": "example_api-reference.md"
     },
     "packs": [
-      "core",
-      "community",
       "misc"
     ]
   },
   {
-    "name": "Bug Report",
-    "summary": "brief summary of the content type this template represents.",
-    "last_updated": "YYYY-MM-DD",
+    "name": "Bug report",
+    "summary": "The bug report is an issue template that your users can fill out to provide you with higher-quality, actionable bug issues for your product.",
+    "last_updated": "2023-06-15",
     "contributors": [
       {
-        "id": "string that matches the 'contributor' filename in the website project.",
+        "name": "Michael Park",
+        "id": "michael_park",
         "roles": [
-          "author",
-          "reviewer"
+          "author"
         ]
       }
     ],
     "files": {
-      "template": "template_filename",
-      "guide": "guide_filename",
-      "resources": "resources_filename",
-      "process": "process_filename",
-      "example": "example_filename"
+      "template": "template_bug-report.md",
+      "guide": "guide_bug-report.md"
     },
     "packs": [
-      "core",
-      "community",
-      "misc"
+      "community"
     ]
   },
   {
     "name": "Code of Conduct",
-    "summary": "brief summary of the content type this template represents.",
-    "last_updated": "YYYY-MM-DD",
+    "summary": "A Code of Conduct helps you govern your open source or developer community to ensure it remains healthy and open.",
+    "last_updated": "2022-12-15",
     "contributors": [
       {
-        "id": "string that matches the 'contributor' filename in the website project.",
+        "name": "Alyssa Rock",
+        "id": "alyssa_rock",
         "roles": [
-          "author",
-          "reviewer"
+          "author"
         ]
       }
     ],
     "files": {
-      "template": "template_filename",
-      "guide": "guide_filename",
-      "resources": "resources_filename",
-      "process": "process_filename",
-      "example": "example_filename"
+      "template": "template_code-of-conduct.md",
+      "guide": "guide_code-of-conduct.md"
     },
     "packs": [
-      "core",
-      "community",
-      "misc"
+      "community"
     ]
   },
   {
-    "name": "Code Of Conduct Incident Record",
-    "summary": "brief summary of the content type this template represents.",
-    "last_updated": "YYYY-MM-DD",
+    "name": "Code of Conduct incident record",
+    "summary": "Used as part of the Code of Conduct process, an incident record is a form that is filled out when a community moderator takes an incident report from a community member.",
+    "last_updated": "2022-12-15",
     "contributors": [
       {
-        "id": "string that matches the 'contributor' filename in the website project.",
+        "name": "Alyssa Rock",
+        "id": "alyssa_rock",
         "roles": [
-          "author",
-          "reviewer"
+          "author"
         ]
       }
     ],
     "files": {
-      "template": "template_filename",
-      "guide": "guide_filename",
-      "resources": "resources_filename",
-      "process": "process_filename",
-      "example": "example_filename"
+      "template": "template_code-of-conduct-incident-record.md",
+      "guide": "guide_code-of-conduct-incident-record.md"
     },
     "packs": [
-      "core",
-      "community",
-      "misc"
+      "community"
     ]
   },
   {
-    "name": "Code Of Conduct Remediation Record",
-    "summary": "brief summary of the content type this template represents.",
-    "last_updated": "YYYY-MM-DD",
+    "name": "Code of Conduct remediation record",
+    "summary": "Used as part of the Code of Conduct process, a remediation record is a form that is filled out when a community moderator meets with a community member to explain the consequences of a Code of Conduct violation.",
+    "last_updated": "2022-12-15",
     "contributors": [
       {
-        "id": "string that matches the 'contributor' filename in the website project.",
+        "name": "Alyssa Rock",
+        "id": "alyssa_rock",
         "roles": [
-          "author",
-          "reviewer"
+          "author"
         ]
       }
     ],
     "files": {
-      "template": "template_filename",
-      "guide": "guide_filename",
-      "resources": "resources_filename",
-      "process": "process_filename",
-      "example": "example_filename"
+      "template": "template_code-of-conduct-remediation-record.md",
+      "guide": "guide_code-of-conduct-remediation-record.md"
     },
     "packs": [
-      "core",
-      "community",
-      "misc"
+      "community"
     ]
   },
   {
-    "name": "Code Of Conduct Response Plan",
-    "summary": "brief summary of the content type this template represents.",
-    "last_updated": "YYYY-MM-DD",
+    "name": "Code of Conduct response plan",
+    "summary": "Used as part of the Code of Conduct process, the response plan explains the policy your team will follow as you handle Code of Conduct incidents.",
+    "last_updated": "2022-12-15",
     "contributors": [
       {
-        "id": "string that matches the 'contributor' filename in the website project.",
+        "name": "Alyssa Rock",
+        "id": "alyssa_rock",
         "roles": [
-          "author",
-          "reviewer"
+          "author"
         ]
       }
     ],
     "files": {
-      "template": "template_filename",
-      "guide": "guide_filename",
-      "resources": "resources_filename",
-      "process": "process_filename",
-      "example": "example_filename"
+      "template": "template_code-of-conduct-response-plan.md",
+      "guide": "guide_code-of-conduct-response-plan.md"
     },
     "packs": [
-      "core",
-      "community",
-      "misc"
+      "community"
     ]
   },
   {
     "name": "Concept",
-    "summary": "brief summary of the content type this template represents.",
-    "last_updated": "YYYY-MM-DD",
+    "summary": "An explanation of a concept, context, or background information about a product or its features.",
+    "last_updated": "2023-12-14",
     "contributors": [
       {
-        "id": "string that matches the 'contributor' filename in the website project.",
+        "name": "Svetlana Novikova",
+        "id": "svetlana_novikova",
         "roles": [
-          "author",
-          "reviewer"
+          "author"
+        ]
+      },
+      {
+        "name": "Ayomide Yissa",
+        "id": "ayomide_yissa",
+        "roles": [
+          "author"
+        ]
+      },
+      {
+        "name": "Ophy Boamah Ampoh",
+        "id": "ophy_boamah_ampoh",
+        "roles": [
+          "author"
         ]
       }
     ],
     "files": {
-      "template": "template_filename",
-      "guide": "guide_filename",
-      "resources": "resources_filename",
-      "process": "process_filename",
-      "example": "example_filename"
+      "template": "template_concept.md",
+      "guide": "guide_concept.md",
+      "resources": "resources_concept.md",
+      "process": "process_concept.md"
     },
     "packs": [
-      "core",
-      "community",
+      "core"
+    ]
+  },
+  {
+    "name": "Contact support",
+    "summary": "A contact support page typically includes a list of the communication channels, discussion forums, and links to other resources to assist users with issues that they are having with your product.",
+    "last_updated": "2024-06-13",
+    "contributors": [
+      {
+        "name": "Christine Belzie",
+        "id": "christine_belzie",
+        "roles": [
+          "author"
+        ]
+      },
+      {
+        "name": "Njong Emy",
+        "id": "njong_emy",
+        "roles": [
+          "author"
+        ]
+      },
+      {
+        "name": "Alyssa Rock",
+        "id": "alyssa_rock",
+        "roles": [
+          "author"
+        ]
+      }
+    ],
+    "files": {
+      "template": "template_contact-support.md",
+      "guide": "guide_contact-support.md",
+      "resources": "resources_contact-support.md",
+      "process": "process_contact-support.md",
+      "example": "example_contact-support.md"
+    },
+    "packs": [
       "misc"
     ]
   },
   {
-    "name": "Contact Support",
-    "summary": "brief summary of the content type this template represents.",
-    "last_updated": "YYYY-MM-DD",
+    "name": "Contributing guide",
+    "summary": "A CONTRIBUTING document tells users how they can contribute to your open source project and join the community.",
+    "last_updated": "2023-06-15",
     "contributors": [
       {
-        "id": "string that matches the 'contributor' filename in the website project.",
+        "name": "Kayla Morales",
+        "id": "kayla_morales",
         "roles": [
-          "author",
-          "reviewer"
+          "author"
         ]
       }
     ],
     "files": {
-      "template": "template_filename",
-      "guide": "guide_filename",
-      "resources": "resources_filename",
-      "process": "process_filename",
-      "example": "example_filename"
+      "template": "template_contributing-guide.md",
+      "guide": "guide_contributing-guide.md",
+      "example": "example_contributing-guide.md"
     },
     "packs": [
-      "core",
-      "community",
-      "misc"
-    ]
-  },
-  {
-    "name": "Contributing Guide",
-    "summary": "brief summary of the content type this template represents.",
-    "last_updated": "YYYY-MM-DD",
-    "contributors": [
-      {
-        "id": "string that matches the 'contributor' filename in the website project.",
-        "roles": [
-          "author",
-          "reviewer"
-        ]
-      }
-    ],
-    "files": {
-      "template": "template_filename",
-      "guide": "guide_filename",
-      "resources": "resources_filename",
-      "process": "process_filename",
-      "example": "example_filename"
-    },
-    "packs": [
-      "core",
-      "community",
-      "misc"
+      "community"
     ]
   },
   {
     "name": "Glossary",
-    "summary": "brief summary of the content type this template represents.",
-    "last_updated": "YYYY-MM-DD",
+    "summary": "A reference document that lists and organizes terms and their definitions that are unique to your organization or which you use in a specific way.",
+    "last_updated": "2024-06-13",
     "contributors": [
       {
-        "id": "string that matches the 'contributor' filename in the website project.",
+        "name": "Rachel Stainer",
+        "id": "rachel_stainer",
         "roles": [
-          "author",
-          "reviewer"
+          "author"
         ]
       }
     ],
     "files": {
-      "template": "template_filename",
-      "guide": "guide_filename",
-      "resources": "resources_filename",
-      "process": "process_filename",
-      "example": "example_filename"
+      "template": "template_glossary.md",
+      "guide": "guide_glossary.md",
+      "resources": "resources_glossary.md",
+      "process": "process_glossary.md"
     },
     "packs": [
-      "core",
-      "community",
       "misc"
     ]
   },
   {
-    "name": "How To",
-    "summary": "brief summary of the content type this template represents.",
-    "last_updated": "YYYY-MM-DD",
+    "name": "How-to",
+    "summary": "A how-to is a concise set of numbered steps to do one task with the product.",
+    "last_updated": "2022-12-15",
     "contributors": [
       {
-        "id": "string that matches the 'contributor' filename in the website project.",
+        "name": "Gayathri Krishnaswamy",
+        "id": "gayathri_krishnaswamy",
         "roles": [
-          "author",
-          "reviewer"
+          "author"
+        ]
+      },
+      {
+        "name": "Ophy Boamah Ampoh",
+        "id": "ophy_boamah_ampoh",
+        "roles": [
+          "author"
         ]
       }
     ],
     "files": {
-      "template": "template_filename",
-      "guide": "guide_filename",
-      "resources": "resources_filename",
-      "process": "process_filename",
-      "example": "example_filename"
+      "template": "template_how-to.md",
+      "guide": "guide_how-to.md"
     },
     "packs": [
-      "core",
-      "community",
+      "core"
+    ]
+  },
+  {
+    "name": "Installation guide",
+    "summary": "An installation guide explains all the necessary steps to install the product and set it up for further use.",
+    "last_updated": "2023-12-14",
+    "contributors": [
+      {
+        "name": "Bolaji Ayodeji",
+        "id": "bolaji_ayodeji",
+        "roles": [
+          "author"
+        ]
+      },
+      {
+        "name": "Michael Vallance",
+        "id": "michael_vallance",
+        "roles": [
+          "author"
+        ]
+      }
+    ],
+    "files": {
+      "template": "template_installation-guide.md",
+      "guide": "guide_installation-guide.md",
+      "resources": "resources_installation-guide.md",
+      "process": "process_installation-guide.md"
+    },
+    "packs": [
       "misc"
     ]
   },
   {
-    "name": "Installation Guide",
-    "summary": "brief summary of the content type this template represents.",
-    "last_updated": "YYYY-MM-DD",
+    "name": "Our team",
+    "summary": "Our team documents help you clearly communicate who belongs to your open source project or organization and how contributors can contact or work with them.",
+    "last_updated": "2023-06-15",
     "contributors": [
       {
-        "id": "string that matches the 'contributor' filename in the website project.",
+        "name": "Alyssa Rock",
+        "id": "alyssa_rock",
         "roles": [
-          "author",
-          "reviewer"
+          "author"
         ]
       }
     ],
     "files": {
-      "template": "template_filename",
-      "guide": "guide_filename",
-      "resources": "resources_filename",
-      "process": "process_filename",
-      "example": "example_filename"
+      "template": "template_our-team.md",
+      "guide": "guide_our-team.md"
     },
     "packs": [
-      "core",
-      "community",
-      "misc"
-    ]
-  },
-  {
-    "name": "Our Team",
-    "summary": "brief summary of the content type this template represents.",
-    "last_updated": "YYYY-MM-DD",
-    "contributors": [
-      {
-        "id": "string that matches the 'contributor' filename in the website project.",
-        "roles": [
-          "author",
-          "reviewer"
-        ]
-      }
-    ],
-    "files": {
-      "template": "template_filename",
-      "guide": "guide_filename",
-      "resources": "resources_filename",
-      "process": "process_filename",
-      "example": "example_filename"
-    },
-    "packs": [
-      "core",
-      "community",
-      "misc"
+      "community"
     ]
   },
   {
     "name": "Quickstart",
-    "summary": "brief summary of the content type this template represents.",
-    "last_updated": "YYYY-MM-DD",
+    "summary": "A quickstart introduces your users to your application for the first time. It focuses on the primary feature of the application and helps your users to start using the application as quickly as possible.",
+    "last_updated": "2023-06-15",
     "contributors": [
       {
-        "id": "string that matches the 'contributor' filename in the website project.",
+        "name": "Gayathri Krishnaswamy",
+        "id": "gayathri_krishnaswamy",
         "roles": [
-          "author",
-          "reviewer"
+          "author"
+        ]
+      },
+      {
+        "name": "Chris Ganta",
+        "id": "chris_ganta",
+        "roles": [
+          "author"
+        ]
+      },
+      {
+        "name": "Nelson Guya",
+        "id": "nelson_guya",
+        "roles": [
+          "author"
         ]
       }
     ],
     "files": {
-      "template": "template_filename",
-      "guide": "guide_filename",
-      "resources": "resources_filename",
-      "process": "process_filename",
-      "example": "example_filename"
+      "template": "template_quickstart.md",
+      "guide": "guide_quickstart.md"
     },
     "packs": [
-      "core",
-      "community",
       "misc"
     ]
   },
   {
-    "name": "ReadMe",
-    "summary": "brief summary of the content type this template represents.",
-    "last_updated": "YYYY-MM-DD",
+    "name": "README",
+    "summary": "REAMDE files include information users need to know about your project, including how users can engage with the project and get started with the tool.",
+    "last_updated": "2023-06-15",
     "contributors": [
       {
-        "id": "string that matches the 'contributor' filename in the website project.",
+        "name": "Joanne Fung",
+        "id": "joanne_fung",
         "roles": [
-          "author",
-          "reviewer"
+          "author"
+        ]
+      },
+      {
+        "name": "Sachin Karol",
+        "id": "sachin_karol",
+        "roles": [
+          "author"
+        ]
+      },
+      {
+        "name": "Alyssa Rock",
+        "id": "alyssa_rock",
+        "roles": [
+          "author"
         ]
       }
     ],
     "files": {
-      "template": "template_filename",
-      "guide": "guide_filename",
-      "resources": "resources_filename",
-      "process": "process_filename",
-      "example": "example_filename"
+      "template": "template_readme.md",
+      "guide": "guide_readme.md",
+      "resources": "resources_readme.md",
+      "process": "process_readme.md",
+      "example": "example_readme.md"
     },
     "packs": [
       "core",
-      "community",
-      "misc"
+      "community"
     ]
   },
   {
     "name": "Reference",
-    "summary": "brief summary of the content type this template represents.",
-    "last_updated": "YYYY-MM-DD",
+    "summary": "A reference document provides specific, in-depth details about a particular topic.",
+    "last_updated": "2023-06-15",
     "contributors": [
       {
-        "id": "string that matches the 'contributor' filename in the website project.",
+        "name": "Clarence Cromwell",
+        "id": "clarence_cromwell",
         "roles": [
-          "author",
-          "reviewer"
+          "author"
         ]
       }
     ],
     "files": {
-      "template": "template_filename",
-      "guide": "guide_filename",
-      "resources": "resources_filename",
-      "process": "process_filename",
-      "example": "example_filename"
+      "template": "template_reference.md",
+      "guide": "guide_reference.md",
+      "example": "example_reference.md"
     },
     "packs": [
-      "core",
-      "community",
+      "core"
+    ]
+  },
+  {
+    "name": "Release notes",
+    "summary": "Release notes communicate new features, improvements, bug fixes, and known issues about a product to users and stakeholders.",
+    "last_updated": "2023-06-15",
+    "contributors": [
+      {
+        "name": "Tara Sweeney",
+        "id": "tara_sweeney",
+        "roles": [
+          "author"
+        ]
+      },
+      {
+        "name": "Rachel Stainer",
+        "id": "rachel_stainer",
+        "roles": [
+          "author"
+        ]
+      }
+    ],
+    "files": {
+      "template": "template_release-notes.md",
+      "guide": "guide_release-notes.md",
+      "example": "example_release-notes.md"
+    },
+    "packs": [
+      "core"
+    ]
+  },
+  {
+    "name": "Style guide",
+    "summary": "A style guide provides project contributors with general guidelines for writing project documentation.",
+    "last_updated": "2023-06-15",
+    "contributors": [
+      {
+        "name": "Alyssa Rock",
+        "id": "alyssa_rock",
+        "roles": [
+          "author"
+        ]
+      }
+    ],
+    "files": {
+      "template": "template_style-guide.md",
+      "guide": "guide_style-guide.md"
+    },
+    "packs": [
       "misc"
     ]
   },
   {
-    "name": "Release Notes",
-    "summary": "brief summary of the content type this template represents.",
-    "last_updated": "YYYY-MM-DD",
+    "name": "Terminology system",
+    "summary": "Using this template, writing teams can ensure they consistently use and translate the same terms across all the documentation in their system.",
+    "last_updated": "2023-12-14",
     "contributors": [
       {
-        "id": "string that matches the 'contributor' filename in the website project.",
+        "name": "Ane Troger",
+        "id": "ane_troger",
         "roles": [
-          "author",
-          "reviewer"
+          "author"
         ]
       }
     ],
     "files": {
-      "template": "template_filename",
-      "guide": "guide_filename",
-      "resources": "resources_filename",
-      "process": "process_filename",
-      "example": "example_filename"
+      "template": "template_terminology-system.csv",
+      "guide": "guide_terminology-system.md",
+      "resources": "resources_terminology-system.md",
+      "process": "process_terminology-system.md",
+      "example": "example_terminology-system.csv"
     },
     "packs": [
-      "core",
-      "community",
-      "misc"
-    ]
-  },
-  {
-    "name": "Style Guide",
-    "summary": "brief summary of the content type this template represents.",
-    "last_updated": "YYYY-MM-DD",
-    "contributors": [
-      {
-        "id": "string that matches the 'contributor' filename in the website project.",
-        "roles": [
-          "author",
-          "reviewer"
-        ]
-      }
-    ],
-    "files": {
-      "template": "template_filename",
-      "guide": "guide_filename",
-      "resources": "resources_filename",
-      "process": "process_filename",
-      "example": "example_filename"
-    },
-    "packs": [
-      "core",
-      "community",
-      "misc"
-    ]
-  },
-  {
-    "name": "Terminology System",
-    "summary": "brief summary of the content type this template represents.",
-    "last_updated": "YYYY-MM-DD",
-    "contributors": [
-      {
-        "id": "string that matches the 'contributor' filename in the website project.",
-        "roles": [
-          "author",
-          "reviewer"
-        ]
-      }
-    ],
-    "files": {
-      "template": "template_filename",
-      "guide": "guide_filename",
-      "resources": "resources_filename",
-      "process": "process_filename",
-      "example": "example_filename"
-    },
-    "packs": [
-      "core",
-      "community",
       "misc"
     ]
   },
   {
     "name": "Troubleshooting",
-    "summary": "brief summary of the content type this template represents.",
-    "last_updated": "YYYY-MM-DD",
+    "summary": "A list of common problems (referred to as symptoms) experienced by users, an explanation of the causes, and steps to resolve the issue.",
+    "last_updated": "2023-12-14",
     "contributors": [
       {
-        "id": "string that matches the 'contributor' filename in the website project.",
+        "name": "Christine Belzie",
+        "id": "christine_belzie",
         "roles": [
-          "author",
-          "reviewer"
+          "author"
         ]
       }
     ],
     "files": {
-      "template": "template_filename",
-      "guide": "guide_filename",
-      "resources": "resources_filename",
-      "process": "process_filename",
-      "example": "example_filename"
+      "template": "template_troubleshooting.md",
+      "guide": "guide_troubleshooting.md",
+      "resources": "resources_troubleshooting.md",
+      "process": "process_troubleshooting.md"
     },
     "packs": [
-      "core",
-      "community",
-      "misc"
+      "core"
     ]
   },
   {
     "name": "Tutorial",
-    "summary": "brief summary of the content type this template represents.",
-    "last_updated": "YYYY-MM-DD",
+    "summary": "Instructions for setting up an example project using the product, intended for the purpose of hands-on learning.",
+    "last_updated": "2023-06-15",
     "contributors": [
       {
-        "id": "string that matches the 'contributor' filename in the website project.",
+        "name": "Deanna Thompson",
+        "id": "deanna_thompson",
         "roles": [
-          "author",
-          "reviewer"
+          "author"
         ]
       }
     ],
     "files": {
-      "template": "template_filename",
-      "guide": "guide_filename",
-      "resources": "resources_filename",
-      "process": "process_filename",
-      "example": "example_filename"
+      "template": "template_tutorial.md",
+      "guide": "guide_tutorial.md",
     },
     "packs": [
-      "core",
-      "community",
-      "misc"
+      "core"
     ]
   },
   {
-    "name": "User Personas",
-    "summary": "brief summary of the content type this template represents.",
-    "last_updated": "YYYY-MM-DD",
+    "name": "User personas",
+    "summary": "User personas are a framework to identify the characteristics that differentiate each user type for your product or service. Discovering more about your users will help you make user-centric product decisions and produce better documentation.",
+    "last_updated": "2024-06-13",
     "contributors": [
       {
-        "id": "string that matches the 'contributor' filename in the website project.",
+        "name": "Ailine Dominey",
+        "id": "ailine_dominey",
         "roles": [
-          "author",
-          "reviewer"
+          "author"
         ]
       }
     ],
     "files": {
-      "template": "template_filename",
-      "guide": "guide_filename",
-      "resources": "resources_filename",
-      "process": "process_filename",
-      "example": "example_filename"
+      "template": "template_user-personas.md",
+      "guide": "guide_user-personas.md",
+      "resources": "resources_user-personas.md",
+      "process": "process_user-personas.md"
     },
     "packs": [
-      "core",
-      "community",
       "misc"
     ]
   }
