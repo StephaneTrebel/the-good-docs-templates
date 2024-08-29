@@ -561,7 +561,7 @@
     ],
     "files": {
       "template": "template_tutorial.md",
-      "guide": "guide_tutorial.md",
+      "guide": "guide_tutorial.md"
     },
     "packs": [
       "core"
