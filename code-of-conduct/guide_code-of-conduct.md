@@ -11,7 +11,7 @@ The Code of Conduct template set includes:
 * **Code of Conduct incident record** - A form that is filled out when a community moderator takes an incident report from a community member.
 * **Code of Conduct remediation record** - A form that is filled out when a community moderator meets with a community member to explain the consequences of a Code of Conduct violation.
 
-You might also consider using the `../our-team/template-our-team.md` template to let your community members know who they can contact to report a Code of Conduct violation. This document is useful beyond Code of Conduct violations. It is a core document that helps you clearly communicate who belongs to your open source project or organization.
+You might also consider using the [The our team](../our-team/template_our-team.md) template to let your community members know who they can contact to report a Code of Conduct violation. This document is useful beyond Code of Conduct violations. It is a core document that helps you clearly communicate who belongs to your open source project or organization.
 
 ---
 
@@ -103,7 +103,7 @@ This section could include:
 * The appeals process
 * A notice that an internal record will be kept for all incidents.
 
-Consider adding a link to your [Code of Conduct response plan](template-code-of-conduct-response-plan.md) to this section for more details.
+Consider adding a link to your [Code of Conduct response plan](../code-of-conduct-response-plan/template_code-of-conduct-response-plan.md) to this section for more details.
 
 ### About the "Where this Code of Conduct applies" section
 
@@ -113,7 +113,7 @@ Examples can include conferences, meetups, community forums, and social media pl
 
 ### About the "Related resources" section
 
-Use the *Related resources* section to link out to helpful resources, such as  [Code of Conduct response plan](template_code-of-conduct-response-plan.md) and your [Our team page](../our-team/template_our-team).
+Use the *Related resources* section to link out to helpful resources, such as  [Code of Conduct response plan](../code-of-conduct-response-plan/template_code-of-conduct-response-plan.md) and your [Our team page](../our-team/template_our-team.md).
 
 You can also include any articles that inspired your values as you wrote your Code of Conduct.
 

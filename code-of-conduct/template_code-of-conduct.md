@@ -36,7 +36,7 @@ We expect our members, contributors, and leaders to:
 * Attempt collaboration before conflict. Seek out and be respectful of differing opinions, styles, viewpoints, and experiences.
 * Give and accept constructive feedback, gracefully. When expressing disagreement, be professional and respectful. Be open to learning from and educating others where needed.
 * Demonstrate empathy and kindness toward other people. Be considerate and respectful in your word choice, speech, and actions. Show respect with the terms you use to address others.
-* Look out for those around you in the community, especially if you are in a position of influence. Alert the {Project name} {link to your community moderators document [community moderators](../our-team/template_our_team.md)} if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+* Look out for those around you in the community, especially if you are in a position of influence. Alert the {Project name} {link to your community moderators document [community moderators](../our-team/template_our-team.md)} if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
 * Gracefully accept responsibility and apologize to those affected by any mistakes, whether made intentionally or unintentionally. If someone says they have been harmed through your words or actions, listen carefully, make amends, learn from the experience, and correct the behavior going forward.
 * Focus on what is best for the overall community, not just for each of us individually. Ensure that leadership roles and opportunities are well-distributed across the community membership and not just centered in one person or the same few people. To help our community develop and build up leaders at every level of the {Project name}, ensure that you share knowledge with others as much as possible and be mindful of fostering healthy dialogue where no one voice dominates a conversation.
 
@@ -57,7 +57,7 @@ The following behaviors are unacceptable within our community, whether they occu
 * Deliberate misgendering.
 * Knowingly making harmful false claims about a person.
 * Pushing a person to drink alcohol when they don't want to drink, or deceiving someone into drinking alcohol.
-* Marketing to our community members either individually or collectively without their express approval. Solicitations on behalf of your business should be restricted to designated channels or areas. For more information about appropriate ways to market your business to the community, ask one of the {Project name} {link to your community moderators document [community moderators](../our-team/template_our_team.md)}.
+* Marketing to our community members either individually or collectively without their express approval. Solicitations on behalf of your business should be restricted to designated channels or areas. For more information about appropriate ways to market your business to the community, ask one of the {Project name} {link to your community moderators document [community moderators](../our-team/template_our-team.md)}.
 * Repeatedly communicating with a community member who has asked you to leave them alone.
 * Sustained disruption of community events, including meetings and presentations.
 * Recording or photography at community meetings and events without explicit permission.
@@ -69,9 +69,9 @@ The following behaviors are unacceptable within our community, whether they occu
 Unacceptable behavior from any {Project name} community member, contributor, sponsors, or leaders will not be tolerated.
 We expect everyone to comply with requests to stop unacceptable behavior immediately.
 
-If any community member engages in unacceptable behavior, any community member or moderator should report the incident to the {Project name} {link to your community moderators document [community moderators](../our-team/template_our_team.md)}.
+If any community member engages in unacceptable behavior, any community member or moderator should report the incident to the {Project name} {link to your community moderators document [community moderators](../our-team/template_our-team.md)}.
 The moderators will investigate the incident to determine the incident's severity and overall impact to the community.
-See our {link to your [Code of Conduct response plan](template_code-of-conduct-response-plan.md)} for more details.
+See our {link to your [Code of Conduct response plan](../code-of-conduct-response-plan/template_code-of-conduct-response-plan.md)} for more details.
 
 Depending on the risk and impact level, the moderators may respond by requiring:
 
@@ -80,7 +80,7 @@ Depending on the risk and impact level, the moderators may respond by requiring:
 * **Temporary ban:** A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with community moderators, is allowed during this period. Violating these terms may lead to a permanent ban. Readmittance to the community usually requires an additional meeting with a community moderator to ensure future compliance.
 * **Permanent ban:** A permanent ban from any sort of public interaction within the community.
 
-The action taken is at the discretion of the {Project name} {link to your community moderators document [community moderators](../our-team/template_our_team.md)}.
+The action taken is at the discretion of the {Project name} {link to your community moderators document [community moderators](../our-team/template_our-team.md)}.
 Participants are expected to comply immediately, and further action may be taken in case a participant does not comply.
 
 Every community member is entitled to one appeal using the [same process for reporting a Code of Conduct incident](#reporting-an-incident).
@@ -90,7 +90,7 @@ After an appeal has been resolved, the decision is considered final.
 ## Reporting an incident
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to one of the {Project name}
-{link to your community moderators document [community moderators](../our-team/template_our_team.md)}.
+{link to your community moderators document [community moderators](../our-team/template_our-team.md)}.
 If you would like to discuss your concerns or if you have personally experienced unacceptable behavior, please reach out to a community moderator as soon as possible.
 
 We encourage reaching out to a community moderator, even if you are unsure whether something counts as a Code of Conduct incident or even if the situation is merely something you observed and did not happen to you directly.
@@ -105,7 +105,7 @@ Please reach out as soon as possible if:
 
 All complaints will be reviewed and investigated promptly and fairly.
 If possible, community moderators will recuse themselves in cases where there is a conflict of interest.
-See our {link to your [Code of Conduct response plan](template_code-of-conduct-response-plan.md)} for more details.
+See our {link to your [Code of Conduct response plan](../code-of-conduct-response-plan/template_code-of-conduct-response-plan.md)} for more details.
 
 An internal record will be kept of all incidents.
 However, all community leaders are obligated to respect the privacy and security of the reporter of any incident.
