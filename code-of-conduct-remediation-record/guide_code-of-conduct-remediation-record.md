@@ -37,7 +37,7 @@ The introduction section provides some guidelines for keeping these meetings und
 
 ### About the "Incident number" section
 
-The incident number should match the same incident number assigned on the [Code of Conduct incident record](template_code-of-conduct-incident-record.md) for this incident.
+The incident number should match the same incident number assigned on the [Code of Conduct incident record](../code-of-conduct-incident-record/template_code-of-conduct-incident-record.md) for this incident.
 
 ### About the "Name of community moderator who remediated the incident" section
 

@@ -1,6 +1,6 @@
 # Contact support user guide
 
-Thank you for downloading this template from The Good Docs Project! Before using the [contact support template](template_contact-support.md), read this document for best practices about how to research, write, and maintain this type of content. Want to explore more templates? Check them out in our [templates](https://gitlab.com/tgdp/templates) GitLab repository.
+Thank you for downloading this template from The Good Docs Project! Before using the [contact support template](/contact-support/template_contact-support.md), read this document for best practices about how to research, write, and maintain this type of content. Want to explore more templates? Check them out in our [templates](https://gitlab.com/tgdp/templates) GitLab repository.
 
 ## About the contact support page
 
@@ -111,13 +111,13 @@ Companies tend to have different approaches to solving technical issues with the
 
 * It helps empower users to solve the issues that they are experiencing with the product.
 * It helps users know which communication channels they should use to request technical support and the amount of time it takes to receive a response.
-* A contact support page is an important component of a larger business strategy to improve customer experience and success. The contact methods used by a business can provide insights into the user experience, which can be helpful in improving the product. For more information about customer support strategies, see [the Contact support process document](process_contact-support.md).
+* A contact support page is an important component of a larger business strategy to improve customer experience and success. The contact methods used by a business can provide insights into the user experience, which can be helpful in improving the product. For more information about customer support strategies, see [the Contact support process document](/contact-support/process_contact-support.md).
 * It's efficient and cost-effective for the business because it empowers users to solve the issues they are experiencing with the product. If users are still struggling, then they can receive guided assistance from the support agent.
 * You can guide the user to contact the support team using the organization's preferred communication methods, especially those methods which have enabled customer issue tracking data. As a result, the company can possibly track trends in customer issues and use this information for quarterly reviews about the customer support strategy or to reveal recurring issues in the product that are impacting several users at once.
 
 ## Best practices for contact support pages
 
-* Research your company's support strategy: When deciding the communication channels for your company/organization's contact support page, consider picking ones that best align with the customer support strategy. Consider presenting the most important or preferred contact support methods first. For more information about customer support strategies, see [the Contact support process document](process_contact-support.md).
+* Research your company's support strategy: When deciding the communication channels for your company/organization's contact support page, consider picking ones that best align with the customer support strategy. Consider presenting the most important or preferred contact support methods first. For more information about customer support strategies, see [the Contact support process document](/contact-support/process_contact-support.md).
 * Set standards for response times: Help users know when they can reasonably expect to hear back from a support agent.
 * Indicate support agent availability: When adding chat and phone numbers as a communication option, add contact hours to help users gain a better understanding of when support agents are available.
 * Offer self-serve options: Users tend to prefer solving the issue on their own before going to a support agent, so consider adding links to the company's knowledge base or product community forums.
@@ -154,7 +154,7 @@ This section of the contact support page is the most important because it is whe
 * Live chat
 * Social media
 
-Delete any contact methods that do not apply to your company. It's best to pick the communication channels that suit your company's support strategies. When deciding the order in which you present the contact details, it should align with the customer support strategy. For more information about customer support strategies, see [the Contact support process document](process_contact-support.md).
+Delete any contact methods that do not apply to your company. It's best to pick the communication channels that suit your company's support strategies. When deciding the order in which you present the contact details, it should align with the customer support strategy. For more information about customer support strategies, see [the Contact support process document](/contact-support/process_contact-support.md).
 
 Additionally, always include a statement that indicates when the customer can expect a response for each contact method. If certain communication channels are only available at specific times, indicate those times for each one.
 

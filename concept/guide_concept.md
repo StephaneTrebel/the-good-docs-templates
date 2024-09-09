@@ -227,7 +227,7 @@ When using them:
 * **When to use metaphors and analogies**: Use them when they enhance understanding, align with your audience's background, and bring clarity and context.
 * **When to be cautious**: Exercise caution when there's a potential lack of understanding due to cultural, age, or background differences or when they might complicate the concept.
 
-A List Apart style guide (referred in the [Resources document](resources_concept.md#)) advises avoiding extended metaphors if possible, so think case by case whether your audience will understand them and if it adds anything to their understanding.
+A List Apart style guide (referred in the [Resources document](resources_concept.md)) advises avoiding extended metaphors if possible, so think case by case whether your audience will understand them and if it adds anything to their understanding.
 
 Best practices for metaphors and analogies:
 

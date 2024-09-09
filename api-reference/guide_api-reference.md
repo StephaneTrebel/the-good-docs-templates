@@ -2,7 +2,7 @@
 
 > Thank you for downloading this template from The Good Docs Project! Before using the template, read this template guide for information about how to complete each section. Want to explore more templates? Check them out in our [templates GitLab repository](https://gitlab.com/tgdp/templates).
 
-This `guide_api-reference` document provides extra writing tips describing how to fill in each of the sections within the [`template_api-reference.md`](template_api-reference.md.md) file.
+This `guide_api-reference` document provides extra writing tips describing how to fill in each of the sections within the [`template_api-reference.md`](/api-reference/template_api-reference.md) file.
 
 ## Overview
 
@@ -10,7 +10,7 @@ API (Application Programming Interface) references are technical manuals that pr
 
 Accurate, concise, well-structured API documentation facilitates efficient adoption of APIs and increases the overall user experience.
 
-The [`template_api-reference.md`](template_api-reference.md.md) is designed to help you build the API documentation efficiently and keep it consistent in both format and appearance. While auto-generating API documentation that follow the [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification/) is also a common practice, you can use this template when manual edit is unavoidable.
+The [`template_api-reference.md`](/api-reference/template_api-reference.md) is designed to help you build the API documentation efficiently and keep it consistent in both format and appearance. While auto-generating API documentation that follow the [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification/) is also a common practice, you can use this template when manual edit is unavoidable.
 
 This template is primarily for documenting [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) APIs. Adjust as needed for other types of APIs.
 
@@ -26,10 +26,10 @@ The template assumes that your API documentation set includes references for man
 
 You may follow these guidelines to help you write better API reference documentation:
 
-* Familiarize yourself with how to to make requests to APIs. If possible, try making some API calls in a testing environment or platform, such as _Postman_.
+* Familiarize yourself with how to make requests to APIs. If possible, try making some API calls in a testing environment or platform, such as _Postman_.
 * Interact with your API developers to learn about the APIs that you are documenting. Understand the data models and the logical connections between the API endpoints.
 * Discuss the logic of grouping the API endpoints. Although grouping the endpoints by resource type is a common practice, as used in this template, it is also possible to group them by use case or other characteristics that better suit the user's needs.
-* Conduct some user research about how the audience of your documentation would use the APIs. Identify the programming languages that your audience would most likely adopt to interact with your APIs.
+* Conduct some user research about how the audience of your documentation would use the APIs. Identify the programming languages that your audience would most likely use to interact with your APIs.
 * Explore the possibility of auto-generating the API references.
 * Optimize the visual presentation of the API references by applying a customized stylesheet, such as using syntax highlighting, table of contents, multi-column layout, etc.
 
@@ -156,7 +156,7 @@ Substitute the document title `{Endpoint name}` with the actual endpoint name.
 
 **Tips**:
 
-* Typically the name of an API endpoint consists of the operation type and the resource type. For example, an API endpoint that creates a User resource can be named `Create user`.
+* Typically, the name of an API endpoint consists of the operation type and the resource type. For example, an API endpoint that creates a User resource can be named `Create user`.
 * As in the API resource reference, the naming convention should be consistent throughout your API documentation.
 * Use the singular form of the resource name unless the endpoint is designed exclusively for a bulk operation, such as `List users`.
 

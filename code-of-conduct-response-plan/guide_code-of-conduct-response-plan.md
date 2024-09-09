@@ -110,7 +110,7 @@ The *Overview* section provides a brief overview of the different phases of hand
 
 The *Listen* section explains the policy and procedures for meeting with a Code of Conduct incident reporter to gather information about the Code of Conduct violation.
 
-At the end of this phase, the investigating moderator should fill out a [Code of Conduct incident record](code-of-conduct-incident-record.md).
+At the end of this phase, the investigating moderator should fill out a [Code of Conduct incident record](../code-of-conduct-incident-record/template_code-of-conduct-incident-record.md).
 
 ### About the "Triage" section
 
@@ -129,7 +129,7 @@ The *Recommend* section provides guidelines for recommending a suggested respons
 
 The *Respond* section explains how to meet with the accused individual to deliver the suggested response and behavior modification plan.
 
-At the beginning of this phase, the investigating moderator should fill out the [Code of Conduct remediation record](code-of-conduct-remediation-record.md).
+At the beginning of this phase, the investigating moderator should fill out the [Code of Conduct remediation record](../code-of-conduct-remediation-record/template_code-of-conduct-remediation-record.md).
 
 ### About the "Resolve" section
 

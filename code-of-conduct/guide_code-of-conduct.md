@@ -11,7 +11,9 @@ The Code of Conduct template set includes:
 * **Code of Conduct incident record** - A form that is filled out when a community moderator takes an incident report from a community member.
 * **Code of Conduct remediation record** - A form that is filled out when a community moderator meets with a community member to explain the consequences of a Code of Conduct violation.
 
-You might also consider using the [The our team](../our-team/template_our-team.md) template to let your community members know who they can contact to report a Code of Conduct violation. This document is useful beyond Code of Conduct violations. It is a core document that helps you clearly communicate who belongs to your open source project or organization.
+You might also consider using the [Our team](../our-team/template_our-team.md) template to let your community members know who they can contact to report a Code of Conduct violation.
+This document is useful beyond Code of Conduct violations.
+It is a core document that helps you clearly communicate who belongs to your open source project or organization.
 
 ---
 
@@ -39,7 +41,7 @@ Your response plan should include important details, such as:
 When you have a well-defined Code of Conduct response plan in addition to a Code of Conduct, it demonstrates that your community takes its ethical responsibilities seriously.
 It means that you are willing to do more than simply talk about your community values: you will actively live by them.
 
-Hopefully, as you create your Code of Conduct and your response plan, your community's leaders will have many important conversations about your community values and you will carefully think through the logistics of promoting and upholding those values in your community.
+Hopefully, as you create your Code of Conduct and your response plan, your community's leaders will have many important conversations about your community values, and you will carefully think through the logistics of promoting and upholding those values in your community.
 
 ## Maintenance strategy
 
@@ -113,7 +115,7 @@ Examples can include conferences, meetups, community forums, and social media pl
 
 ### About the "Related resources" section
 
-Use the *Related resources* section to link out to helpful resources, such as  [Code of Conduct response plan](../code-of-conduct-response-plan/template_code-of-conduct-response-plan.md) and your [Our team page](../our-team/template_our-team.md).
+Use the *Related resources* section to link out to helpful resources, such as [Code of Conduct response plan](../code-of-conduct-response-plan/template_code-of-conduct-response-plan.md) and your [Our team](../our-team/template_our-team.md) page.
 
 You can also include any articles that inspired your values as you wrote your Code of Conduct.
 

@@ -113,7 +113,7 @@ These use cases for a terminology system help your project to maintain the gloss
 ## Content of the terminology system template
 
 A table is the best structure to capture a terminology system, where each column contains the following content.
-For a populated example of a terminology system, see [example_terminology.csv](terminology-system/example_terminology-system.csv).
+For a populated example of a terminology system, see [example_terminology.csv](/terminology-system/example_terminology-system.csv).
 
 ### About the "Term" column
 

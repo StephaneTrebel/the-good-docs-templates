@@ -102,7 +102,7 @@ Q: No questions yet.
 
 ## Resources
 
-Example filename: resources_content-type.md.md
+Example filename: resources_content-type.md
 
 This document includes the resources (books, blog entries, guides) that the templateer used during the research phase of creating the template. The templateer can also include high quality examples of that content type that served as inspiration for the template.
 
@@ -143,7 +143,7 @@ Q: No questions yet.
 
 ## Process
 
-Example filename: process_content-type.md.md
+Example filename: process_content-type.md
 
 This document explains best practices for researching, writing, and maintaining this content type. As a minimum viable document, it can be very lightweight and include simple content about researching, writing, and maintaining that content type---such as a paragraph each. If a more detailed explanation is needed for that content type, it can go deeper.
 

@@ -143,7 +143,7 @@ Step 3 Configure your new project
 * Use plain language and define the terminology of any technical term next to it.
 * Include one action in a step.
 
-:information_source: For additional tips on writing steps, see [Writing Procedural Steps](writing-tips.md#writing-procedural-steps) from The Good Docs Project.
+:information_source: For additional tips on writing steps, see [Writing Procedural Steps](../writing-tips.md#writing-procedural-steps) from The Good Docs Project.
 
 ## About the "Next steps" section
 

@@ -85,7 +85,7 @@ This team should be comprised of individuals who occupy a position of trust in y
 
 Perhaps most importantly, community members need to know who they can contact for support if a potential Code of Conduct incident occurs in your community.
 Ideally, your community moderator team should be equipped with adequate training and authority to effectively respond to Code of Conduct incidents.
-See the [Code of Conduct template](../code-of-conduct) for more resources.
+See the [Code of Conduct template](/code-of-conduct/template_code-of-conduct.md) for more resources.
 
 In this section, you can describe what tasks your community moderators are responsible for, adapting the provided boilerplate text for your needs.
 
