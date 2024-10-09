@@ -21,7 +21,7 @@ A well-defined terminology system reduces ambiguity and increases clarity, which
 ## Terminology system vs. glossary
 
 The scope of a terminology system is broader than that of a glossary, which contains a simple list of terms, abbreviations, and definitions.
-If you want to use the glossary template, see the glossary template (link forthcoming in a future template release).
+If you want to use the glossary template, [see the glossary template](https://gitlab.com/tgdp/templates/-/tree/main/glossary).
 
 To help you decide if your project should have a glossary or a terminology system, consider how much information you need to attach to each term.
 
