@@ -181,6 +181,7 @@ Severity refers to the overall seriousness of the behavior and the risk that beh
         <li>Repeatedly dominating a conversation (such as repeatedly talking over another person or not inviting discussion from others where appropriate)</li>
         <li>Excessive profanity</li>
         <li>Sustained disruptions of community events</li>
+      </ul>
     </td>
   </tr>
   <tr>
