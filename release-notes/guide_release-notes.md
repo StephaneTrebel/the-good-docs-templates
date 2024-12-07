@@ -29,7 +29,7 @@ The following table describes the differences between changelogs and release not
 | Release Notes                                                                                                                                                                              | Changelogs                                                                                                                                                                                                                 |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Customer focused                                                                                                                                                                           | Developer focused                                                                                                                                                                                                          |
-| Use plain language.                                                                                                                                                                       | Use technical language.                                                                                                                                                                                                   |  
+| Use plain language.                                                                                                                                                                       | Use technical language.                                                                                                                                                                                                   |
 | Typically requires research to understand the features, functionality, and user experience.                                                                                               | Typically a light effort as it is closely related to developers' current work.                                                                                                                                            |
 | Describes the changes to features and functionality. <ul><li>Can include media to enhance descriptions.</li><li> Often includes links to the user documentation for more information.</li> | A reverse chronological list that describes code changes and their impact on the features. <ul><li>Can include links to merge requests, issue numbers, or commits.</li><li>Can list contributors to the release.</li></ul> |
 | Includes what changed and why.                                                                                                                                                            | Links to the developer who made the change and specific issues.                                                                                                                                                           |
@@ -124,6 +124,55 @@ The following formulas might be helpful when writing new features:
 
     Software X now provides a Personal Log, so you can quickly access your most recent transactions.
     See [Personal Log](http://example.com) for more details.
+
+## About the "New features requiring configuration updates” section
+
+List the most important features requiring configuration updates first. What is important depends on your organization and stakeholder priorities. Consider the features and changing configurations from the stakeholder's point of view, and list new features that have the most impact on their experience first.
+
+When you write about new product features requiring configuration updates:
+
+1. Use an engaging, concise title to summarize the feature.
+2. Describe how the feature benefits the stakeholder. You might ask yourself, "Why is this valuable? How does it benefit the business?"
+3. Describe the nature of the configuration update
+4. Include screenshots or short videos if they help the stakeholder understand the feature and configuration updates.
+5. Link to the feature's full documentation in the description and link to any relevant configuration documentation. The description in this section includes only a brief description. Link to the full documentation to provide a complete description, which becomes the source of truth.
+
+The following is an example of a new feature:
+
+* **Find your recent transactions with Personal Log**
+  Use Personal Log to quickly access your most recent transactions. When speaking with a customer, you can select the last five transactions you accessed from a menu. You can also perform a more extensive search to find specific transactions you accessed in your queues.
+  Before using this feature, you need to configure Personal Log settings in the Admin Panel, including granting user permissions and defining search parameters.
+  See [Personal Log](http://example.com) documentation for more information.
+
+The following formulas might be helpful when writing new features:
+
+**Formula 1:**
+
+* [ ] You can now {describe what you can do with the feature}.
+* [ ] This means you can {benefit}.
+* [ ] In order to use this new feature, you must  {describe the configuration updates}.
+* [ ] See {link to topic name} for more details.
+
+  **If we were to apply this formula, using the previous example, it reads as follows:**
+
+  You can now quickly access your most recent transactions. This means you can select the last five transactions that you accessed from a menu when speaking with a customer. You can also perform a more extensive search to find specific transactions you accessed in your queues.
+  To enable this feature, you need to configure Personal Log Settings in the Admin Panel. This configuration involves:
+* Granting user permissions for Personal Log access.
+* Adjusting settings to define the transaction history retention period and search parameters.
+
+See [Personal Log](http://example.com) documentation for more details on configuration steps and feature benefits.
+
+**Formula 2:**
+
+* [ ] {The application} now provides {feature}.
+* [ ] …{benefit}.
+* [ ] To enable this feature, you need to {briefly describe the required configuration update}.
+* [ ] See {link} for more details.
+
+  **If we were to apply this formula, using the previous example, it reads as follows:**
+
+  Software X now provides Shift Priority Rules, so you can ensure critical shifts are filled first.
+  To enable this feature, you need to configure Shift Priority settings in the Admin Panel, defining priority levels for specific roles or shifts. See [Shift Priority Rules](http://example.com) for more details.
 
 ## About the "Improvements" section
 
