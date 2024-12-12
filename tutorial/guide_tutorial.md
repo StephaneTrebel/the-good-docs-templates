@@ -166,3 +166,7 @@ Listing the actual skills and knowledge your users gained can also help to motiv
 ### About the "Next Steps" section
 
 Use this section to include links to other tutorials, such as tutorials that allow users to learn about related features. You can also include links to relevant resources, like articles, blogs, or videos.
+
+---
+
+> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Tutorial%20guide) to give feedback on this template.

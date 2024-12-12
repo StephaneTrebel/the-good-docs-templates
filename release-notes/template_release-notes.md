@@ -1,14 +1,14 @@
 # Release notes - {Product name} {Release number - 0.0.0}
 
-> Thank you for downloading this template from The Good Docs Project\! Before using the template, read this document to see high quality examples of the template in action and to review the resources that were consulted when this template was created. Want to explore more templates? Check them out in our [templates](https://gitlab.com/tgdp/templates) GitLab repository.
+> Thank you for downloading this template from The Good Docs Project! Before using the template, read this document to see high quality examples of the template in action and to review the resources that were consulted when this template was created. Want to explore more templates? Check them out in our [templates](https://gitlab.com/tgdp/templates) GitLab repository.
 
 {If you need more information about how to fill in this template, read the accompanying [Release notes process](process_release-notes.md) document}
 
 {This template includes writing instructions and boilerplate text that you can customize, use as-is, or completely replace with your own text. This text is indicated in {curly brackets}. Make sure you replace the placeholders with your own text.}
 
-{Optional: Release notes version \- 0}
+{Optional: Release notes version - 0}
 
-{Release date \- YYYY-MM-DD}
+{Release date - YYYY-MM-DD}
 
 {Optional: High-level summary}
 
@@ -85,4 +85,6 @@
 * **Retired tool:** The {tool name} is being deprecated with this update. This tool will be phased out by {date}. Please migrate to {replacement tool or workflow}, which offers improved {specific benefit or functionality}.
 * **API change:** The {API endpoint name} is deprecated as of this release. This endpoint will no longer accept requests after {deprecation date}. Users should update their applications to use {new API endpoint or method}, which supports {enhanced functionality or feature}.
 
-{Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our [feedback form](https://thegooddocsproject.dev/feedback/) to give feedback on this template.}
+---
+
+> Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Release%20notes%20template) to give feedback on this template.

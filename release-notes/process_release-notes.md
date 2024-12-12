@@ -1,10 +1,10 @@
 # Release notes process
 
-> Thank you for downloading this template from The Good Docs Project\! Before using the template, read this document for best practices about how to research, write, and maintain this type of content. Want to explore more templates? Check them out in our [templates](https://gitlab.com/tgdp/templates) GitLab repository.
+> Thank you for downloading this template from The Good Docs Project! Before using the template, read this document for best practices about how to research, write, and maintain this type of content. Want to explore more templates? Check them out in our [templates](https://gitlab.com/tgdp/templates) GitLab repository.
 
-Release notes provide a clear, structured overview of updates, fixes, and changes in a software release, helping users and stakeholders quickly understand what’s new, improved, or fixed. This document serves as an essential touchpoint between development teams and users, making it easier to identify enhancements, spot new feature requirements, and track bug resolutions. Release notes are especially valuable for product updates that may impact user workflows, require configuration changes, or introduce new functionality. Use this template to ensure your release notes are clear, comprehensive, and actionable for a wide range of users.
+Release notes provide a clear, structured overview of updates, fixes, and changes in a software release, helping users and stakeholders quickly understand what's new, improved, or fixed. This document serves as an essential touchpoint between development teams and users, making it easier to identify enhancements, spot new feature requirements, and track bug resolutions. Release notes are especially valuable for product updates that may impact user workflows, require configuration changes, or introduce new functionality. Use this template to ensure your release notes are clear, comprehensive, and actionable for a wide range of users.
 
-Release notes are essential whenever you deliver updates that impact users, regardless of your release cadence. In Agile Software Development, frequent release notes keep users informed about continuous improvements and help teams stay aligned on incremental updates. For products with a regular release cadence—whether monthly, quarterly, or annually—release notes provide transparency into major changes and enhancements users can expect at predictable intervals. Release notes are also crucial for hotfixes or security patches, where immediate communication helps users understand critical fixes and any actions they might need to take.
+Release notes are essential whenever you deliver updates that impact users, regardless of your release cadence. In Agile Software Development, frequent release notes keep users informed about continuous improvements and help teams stay aligned on incremental updates. For products with a regular release cadence-whether monthly, quarterly, or annually-release notes provide transparency into major changes and enhancements users can expect at predictable intervals. Release notes are also crucial for hotfixes or security patches, where immediate communication helps users understand critical fixes and any actions they might need to take.
 
 ## How to research release notes
 
@@ -44,7 +44,7 @@ Product managers are a key role for all software teams. The overall goal of prod
 
 ### Engage with development teams
 
-Development teams are essential partners in the release notes process, as they are directly responsible for building, testing, and troubleshooting the product. Their in-depth knowledge of new features, technical improvements, bug fixes, and known issues makes them invaluable sources of detailed information for release notes. Developers often have a clearer understanding of the technical aspects of updates, including any dependencies or configurations that users may need to know. Engaging with development teams ensures that release notes are both accurate and comprehensive, providing users with critical insights into the product’s latest changes and improvements.
+Development teams are essential partners in the release notes process, as they are directly responsible for building, testing, and troubleshooting the product. Their in-depth knowledge of new features, technical improvements, bug fixes, and known issues makes them invaluable sources of detailed information for release notes. Developers often have a clearer understanding of the technical aspects of updates, including any dependencies or configurations that users may need to know. Engaging with development teams ensures that release notes are both accurate and comprehensive, providing users with critical insights into the products latest changes and improvements.
 
 #### Maintain regular communication
 
@@ -100,7 +100,7 @@ Use simple, direct language to explain changes. Avoid jargon and technical terms
 
 ### Organize content by importance
 
-Start with the most impactful changes, such as new features or critical fixes, then move on to minor improvements or tweaks. This structure helps users quickly identify what’s important to them.
+Start with the most impactful changes, such as new features or critical fixes, then move on to minor improvements or tweaks. This structure helps users quickly identify what's important to them.
 
 ### Use a consistent format
 
@@ -114,7 +114,7 @@ Maintain a consistent format across all release notes. Common sections include:
 
 * **Improvements/Enhancements**: Details on performance improvements, UI/UX changes, etc.
 
-* **Bug fixes**: Use consistent phrasing, like “Resolved an issue…” for each entry, and briefly explain how each fix benefits the user experience.
+* **Bug fixes**: Use consistent phrasing, like "Resolved an issue..." for each entry, and briefly explain how each fix benefits the user experience.
 
 * **Known issues**: Any unresolved problems that may impact the user.
 
@@ -124,7 +124,7 @@ Describe changes in terms of how they benefit the user. Rather than simply stati
 
 ### Make it scannable
 
-Use bullet points, headers, and short paragraphs to make the release notes easy to scan. Users often want to quickly identify what’s relevant to them, so avoid lengthy blocks of text.
+Use bullet points, headers, and short paragraphs to make the release notes easy to scan. Users often want to quickly identify what's relevant to them, so avoid lengthy blocks of text.
 
 ### Use visuals when needed
 
@@ -144,7 +144,7 @@ Maintain an easily accessible, centralized location where all past release notes
 
 ### Keep consistency across multiple channels
 
-Ensure that release notes are consistent across all platforms—whether the product's website, customer portal, or internal knowledge base. This prevents users from encountering outdated or conflicting information.
+Ensure that release notes are consistent across all platforms--whether the product's website, customer portal, or internal knowledge base. This prevents users from encountering outdated or conflicting information.
 
 ### Monitor feedback and questions
 
@@ -164,4 +164,4 @@ Use version control to manage changes in your release notes over time. This help
 
 ---
 
-> Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our [feedback form](https://thegooddocsproject.dev/feedback/) to give feedback on this template.
+> Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Release%20notes%20process) to give feedback on this template.

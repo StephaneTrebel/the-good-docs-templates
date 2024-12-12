@@ -178,4 +178,4 @@ Use a date format.
 Describe the reason for the update.
 
 Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates).
-Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Terminology%20system) to give feedback on this template.
+Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Terminology%20system%20template) to give feedback on this template.

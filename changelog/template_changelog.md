@@ -67,7 +67,7 @@
 
 ## Security
 
-{Use this section to list any resolved common vulnerabilities and exposures (CVEs) or other improvements to your software’s security. If you build your changelog from Git commits, the feature description and commit number will be added automatically.}
+{Use this section to list any resolved common vulnerabilities and exposures (CVEs) or other improvements to your software's security. If you build your changelog from Git commits, the feature description and commit number will be added automatically.}
 
 {Start each description with a verb, such as "Fixed", "Improved", or "Added."}
 
@@ -89,8 +89,6 @@
 * {Feature description} {[Commit number](https://www.github.com)} {[Contributor handle](https://www.github.com/username)}
 * {Feature description} {[Commit number](https://www.github.com)} {[Contributor handle](https://www.github.com/username)}
 
+---
 
-
-{Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our [feedback form](https://thegooddocsproject.dev/feedback/) to give feedback on this template.}
-
-
+> Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Changelog%20template) to give feedback on this template.
