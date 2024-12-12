@@ -71,6 +71,43 @@
     ]
   },
   {
+    "name": "Changelog",
+    "summary": "Changelogs document significant product changes in reverse-chronological order. This template offers a more technical, comprehensive alternative to standard release notes.",
+    "last_updated": "2024-12-12",
+    "contributors": [
+      {
+        "name": "Cat Keller",
+        "id": "cat_keller",
+        "roles": [
+          "author"
+        ]
+      },
+      {
+        "name": "Deanna Thompson",
+        "id": "deanna_thompson",
+        "roles": [
+          "author"
+        ]
+      },
+      {
+        "name": "Rob Beg",
+        "id": "rob_beg",
+        "roles": [
+          "author"
+        ]
+      }
+    ],
+    "files": {
+      "template": "template_changelog.md",
+      "guide": "guide_changelog.md",
+      "resources": "resources_changelog.md",
+      "process": "process_changelog.md"
+    },
+    "packs": [
+      "community"
+    ]
+  },
+  {
     "name": "Code of Conduct",
     "summary": "A Code of Conduct helps you govern your open source or developer community to ensure it remains healthy and open.",
     "last_updated": "2022-12-15",
@@ -452,7 +489,7 @@
   {
     "name": "Release notes",
     "summary": "Release notes communicate new features, improvements, bug fixes, and known issues about a product to users and stakeholders.",
-    "last_updated": "2023-06-15",
+    "last_updated": "2024-12-12",
     "contributors": [
       {
         "name": "Tara Sweeney",
@@ -467,12 +504,21 @@
         "roles": [
           "author"
         ]
+      },
+      {
+        "name": "Leigh Hutchens",
+        "id": "leigh_hutchens",
+        "roles": [
+          "author"
+        ]
       }
     ],
     "files": {
       "template": "template_release-notes.md",
       "guide": "guide_release-notes.md",
-      "example": "example_release-notes.md"
+      "example": "example_release-notes.md",
+      "resources": "resources_release-notes.md",
+      "process": "process_release-notes.md"
     },
     "packs": [
       "core"

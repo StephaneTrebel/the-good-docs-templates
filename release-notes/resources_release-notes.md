@@ -1,6 +1,6 @@
 # Release notes resources
 
-> Thank you for downloading this template from The Good Docs Project\! Before using the template, read this document to see high quality examples of the template in action and to review the resources that were consulted when this template was created. Want to explore more templates? Check them out in our [templates](https://gitlab.com/tgdp/templates) GitLab repository.
+> Thank you for downloading this template from The Good Docs Project! Before using the template, read this document to see high quality examples of the template in action and to review the resources that were consulted when this template was created. Want to explore more templates? Check them out in our [templates](https://gitlab.com/tgdp/templates) GitLab repository.
 
 Take a look at the following accompanying resources:
 
@@ -14,9 +14,9 @@ Take a look at the following accompanying resources:
 
 The following high-quality examples of release notes inspired this template and can help you see examples of effective release notes in action:
 
-* [Deputy: What’s New](https://whatsnew.deputy.com/): Efficiently highlights recent features and improvements with clear categories and visuals, making updates easy to understand at a glance.
+* [Deputy: What's New](https://whatsnew.deputy.com/): Efficiently highlights recent features and improvements with clear categories and visuals, making updates easy to understand at a glance.
 * [Jira Software release notes](https://confluence.atlassian.com/jirasoftware/jira-software-release-notes-776821069.html): Provides an organized overview of new features, fixes, and updates across Jira versions, helping users track platform changes, stability improvements, and compatibility adjustments.
-* [Notion: What’s New](https://www.notion.so/releases): Provides an organized, straightforward layout, making it easy for users to quickly view recent updates and feature improvements.
+* [Notion: What's New](https://www.notion.so/releases): Provides an organized, straightforward layout, making it easy for users to quickly view recent updates and feature improvements.
 * [Spotify for Backstage release notes](https://backstage.spotify.com/release-notes/): Has a simple, straightforward developer-focused design focused purely on functionality, allowing users to quickly absorb updates and improvements without unnecessary embellishments.
 
 ## Resources
@@ -39,4 +39,6 @@ The authors of this template want to acknowledge the resources that were consult
 | Slite: [The art of writing great release notes](https://slite.com/learn/release-notes) | Provides best practices for creating concise, user-friendly release notes that engage readers, avoid jargon, and enhance brand experience |
 | User Guiding: [13 Examples of Release Notes Users Enjoy Reading](https://userguiding.com/blog/release-note-examples) | Presents 13 release note examples that prioritize clarity and user engagement, using visuals and creative formatting to improve readability and appeal. |
 
-Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our [feedback form](https://thegooddocsproject.dev/feedback/) to give feedback.
+---
+
+> Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Release%20notes%20resources) to give feedback.

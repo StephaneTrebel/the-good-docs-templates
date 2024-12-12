@@ -125,7 +125,7 @@ The following formulas might be helpful when writing new features:
     Software X now provides a Personal Log, so you can quickly access your most recent transactions.
     See [Personal Log](http://example.com) for more details.
 
-## About the "New features requiring configuration updates” section
+## About the "New features requiring configuration updates" section
 
 List the most important features requiring configuration updates first. What is important depends on your organization and stakeholder priorities. Consider the features and changing configurations from the stakeholder's point of view, and list new features that have the most impact on their experience first.
 

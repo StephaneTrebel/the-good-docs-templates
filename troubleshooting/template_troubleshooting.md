@@ -39,4 +39,4 @@
 
 ---
 
-> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Troubleshooting) to give feedback on this template.
+> Explore other templates from [The Good Docs Project](https://thegooddocsproject.dev/). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Troubleshooting%20template) to give feedback on this template.

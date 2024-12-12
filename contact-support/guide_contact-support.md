@@ -170,4 +170,4 @@ Some companies might want users to choose self-help options before they contact 
 
 ---
 
-Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our[feedback form](https://thegooddocsproject.dev/feedback/?template=Contact%20support%20guide) to give feedback on this template.
+> Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our[feedback form](https://thegooddocsproject.dev/feedback/?template=Contact%20support%20guide) to give feedback on this template.

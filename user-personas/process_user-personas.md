@@ -45,6 +45,7 @@ Once you have established clear project goals for your desired outcome, you can 
 To get the most use out of your user personas, integrate them at the start of your project planning. Predict your user types during the initial stage of requirements analysis, and confirm your user personas through user research before implementing major design changes or reaching key project milestones.
 
 The following table is an example project sequence of where user personas fit within the information development cycle.
+
 | Project stage      | Description |
 | ----------- | ----------- |
 | Determine project goals| Identify key goals your project intends to accomplish.|
@@ -196,4 +197,4 @@ Continue to listen to users by collecting user research and update your user per
 
 ---
 
-Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Persona%20process) to give feedback on this template.
+> Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=User%20personas%20process) to give feedback on this template.

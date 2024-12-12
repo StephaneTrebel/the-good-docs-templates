@@ -41,4 +41,4 @@ The authors of this template want to acknowledge the resources that were consult
 
 ---
 
-> Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our [feedback form](https://thegooddocsproject.dev/feedback/) to give feedback on this template.
+> Explore other templates from [The Good Docs Project](https://gitlab.com/tgdp/templates). Use our [feedback form](https://thegooddocsproject.dev/feedback/?template=Troubleshooting%20resources) to give feedback on this template.

@@ -125,6 +125,10 @@ The open source community docs template pack includes the fundamental content ty
     <td>The bug report is an issue template that your users can fill out to provide you with higher-quality, actionable bug issues for your product.</td>
   </tr>
   <tr>
+    <td><a href="/changelog">Changelog</td>
+    <td>Changelogs document significant product changes in reverse-chronological order. This template offers a more technical, comprehensive alternative to standard release notes.</td>
+  </tr>
+  <tr>
     <td><a href="/code-of-conduct">Code of Conduct</td>
     <td>A Code of Conduct helps you govern your open source or developer community to ensure it remains healthy and open.</td>
   </tr>
