@@ -1,3 +1,5 @@
+THIS IS A FORK OF https://gitlab.com/tgdp/templates
+
 # The Good Docs Project templates
 
 [![License: MIT-0](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/license/mit-0) [![CHAOSS DEI: Bronze](https://gitlab.com/tgdp/governance/-/raw/main/CHAOSS-Bronze-Badge-small.png?ref_type=heads)](https://badging.chaoss.community/)
